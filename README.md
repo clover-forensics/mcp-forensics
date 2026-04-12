@@ -25,7 +25,12 @@ docker run --rm \
     --query "Recover deleted text files from the ext image and extract the secret password" \
     --max-steps 5
 ```
-Note: Use absolute path to local folder for correct volume binding
+
+Note: 
+
+- Use absolute path to local folder for correct volume binding
+
+- You can create your own free Gemini API key through Google AI Studio with any Gmail account.
 
 ### Vertex AI (paid GCP / higher quotas)
 
@@ -45,14 +50,20 @@ Example (Docker + service account file on the host):
 ```bash
 docker run --rm \
   -e GOOGLE_GENAI_USE_VERTEXAI=true \
-  -e GOOGLE_CLOUD_PROJECT=your-project-id \
+  -e GOOGLE_CLOUD_PROJECT=cmu-14789 \
   -e GOOGLE_CLOUD_LOCATION=us-central1 \
   -e GOOGLE_APPLICATION_CREDENTIALS=/secrets/sa.json \
   -v /absolute/path/to/service-account.json:/secrets/sa.json:ro \
   -v "$(pwd)/cases:/app/cases" \
   mcp-forensics \
-  python pipeline.py --case /app/cases/example --query "..." --max-steps 5
+  python pipeline.py --case /app/cases/example --query "Recover deleted text files from the ext image and extract the secret password" --max-steps 5
 ```
+
+Note:
+
+- `/app/cases/example` is the directory that contains your disk image and other accompanying information you provide. The outcome of the investigation (including steps logging) will be saved in the `logs` subfolder under this directory.
+
+- Download the service account credentials from your GCP account and pass it to the container using volume binding.
 
 ## (Optional) Shell in container
 
