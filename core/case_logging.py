@@ -43,6 +43,35 @@ def list_case_inventory(case_folder: Path, *, max_entries: int = 200) -> list[di
     return entries
 
 
+def redact_for_llm(value: Any) -> Any:
+    """
+    Strip binary/base64 and huge text from tool results before they go to the LLM (token-safe).
+    Full payloads remain in JSONL logs via the separate truncation path in pipeline.
+    """
+    if isinstance(value, dict):
+        out: dict[str, Any] = {}
+        for k, v in value.items():
+            lk = str(k).lower()
+            if lk == "stdout_base64" or lk.endswith("_base64") or "base64" in lk:
+                s = v if isinstance(v, str) else str(v)
+                out[k] = f"<omitted binary field ({len(s)} chars)>"
+            else:
+                out[k] = redact_for_llm(v)
+        # Avoid duplicating huge JSON in `text` when structured `parsed` exists
+        if (
+            out.get("parsed") is not None
+            and isinstance(out.get("text"), str)
+            and len(out["text"]) > 2000
+        ):
+            out["text"] = f"<omitted raw text ({len(out['text'])} chars); see parsed>"
+        return out
+    if isinstance(value, list):
+        return [redact_for_llm(v) for v in value[:500]]
+    if isinstance(value, str) and len(value) > 12000:
+        return f"<omitted long string ({len(value)} chars)>"
+    return value
+
+
 def truncate_value(value: Any, max_chars: int) -> Any:
     """Truncate large strings (and JSON-serialized blobs) for storage/context."""
     if isinstance(value, str) and len(value) > max_chars:

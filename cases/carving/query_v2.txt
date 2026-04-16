@@ -1,0 +1,15 @@
+You are analyzing a forensic disk image nps-2009-canon2-gen6.E01 of a 32MB SD card from a Canon PowerShot SD800IS. The card has undergone repeated cycles of image capture, selective deletion, and re-imaging.
+
+Your objective is to recover all JPEG images, including:
+- Allocated (active) files
+- Deleted but recoverable files
+- Carved files with no file system metadata
+- Deduplicate results (avoid duplicates between extracted and carved files)
+
+Note:
+Before using icat or any file extraction operations, first convert the E01 image to a raw disk image using the following to speed up I/O:
+ewfexport nps-2009-canon2-gen6.E01
+
+Output format:
+- Name files sequentially as: IMG_0001.JPG, IMG_0002.JPG, etc.
+- Store all valid recovered JPEGs in a single subfolder named recovered.

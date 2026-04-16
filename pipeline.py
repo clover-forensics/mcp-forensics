@@ -19,6 +19,7 @@ from core.case_logging import (
     append_step_jsonl,
     ensure_logs_dir,
     list_case_inventory,
+    redact_for_llm,
     truncate_value,
     utc_now_iso,
     write_final_report,
@@ -107,7 +108,7 @@ def _build_model_context(state: dict[str, Any]) -> dict[str, Any]:
                 "reasoning": h.get("reasoning"),
                 "action": h.get("action"),
                 "args": h.get("args"),
-                "result": truncate_value(h.get("result_summary"), 3500),
+                "result": truncate_value(redact_for_llm(h.get("result_summary")), 3500),
             }
         )
 
@@ -188,6 +189,10 @@ def run_investigation(
         for step_num in range(max_steps):
             state["step_index"] = step_num
             model_ctx = _build_model_context(state)
+            print(
+                f"[step {step_num}] Waiting: LLM reasoning (choosing next action)…",
+                flush=True,
+            )
             decision = decide_next_step(model_ctx)
 
             if decision["action"] == "finish":
@@ -209,6 +214,10 @@ def run_investigation(
             tool_args = decision.get("args") or {}
             reasoning = decision.get("reasoning", "")
 
+            print(
+                f"[step {step_num}] Waiting: MCP tool / subprocess ({tool_name})…",
+                flush=True,
+            )
             try:
                 result = await session.call_tool(tool_name, arguments=tool_args)
                 serial = tool_result_to_serializable(result)
@@ -220,7 +229,7 @@ def run_investigation(
                 }
 
             result_for_log = truncate_value(serial, MAX_JSONL_RESULT_CHARS)
-            result_summary = truncate_value(serial, 8000)
+            result_summary = truncate_value(redact_for_llm(serial), 8000)
 
             record = {
                 "kind": "tool_step",
@@ -330,10 +339,16 @@ def _cli() -> None:
         required=True,
         help="Case directory (must exist; logs/ will be created under it)",
     )
-    parser.add_argument(
+    q = parser.add_mutually_exclusive_group(required=True)
+    q.add_argument(
         "--query",
-        required=True,
         help="Investigation goal in natural language",
+    )
+    q.add_argument(
+        "--query-file",
+        type=Path,
+        metavar="PATH",
+        help="Read investigation goal from this file (UTF-8; supports multiple lines)",
     )
     parser.add_argument(
         "--max-steps",
@@ -342,8 +357,12 @@ def _cli() -> None:
         help="Maximum MCP tool calls before stopping (default: 12)",
     )
     args = parser.parse_args()
+    if args.query_file is not None:
+        user_query = args.query_file.expanduser().resolve().read_text(encoding="utf-8")
+    else:
+        user_query = args.query
     out = run_investigation(
-        user_query=args.query,
+        user_query=user_query,
         case_folder=args.case,
         max_steps=args.max_steps,
     )

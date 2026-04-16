@@ -6,3 +6,4 @@ __pycache__
 .cursor
 .env
 sevice-account.json
+.DS_Store

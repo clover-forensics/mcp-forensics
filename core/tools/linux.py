@@ -30,16 +30,19 @@ def _run(
     *,
     timeout_sec: int = DEFAULT_TIMEOUT_SEC,
     max_output_bytes: int = DEFAULT_MAX_OUTPUT_BYTES,
+    stdin: int | None = None,
 ) -> dict[str, Any]:
     try:
-        proc = subprocess.run(
-            cmd,
-            capture_output=True,
-            timeout=timeout_sec,
-            check=False,
-            text=True,
-            errors="replace",
-        )
+        run_kw: dict[str, Any] = {
+            "capture_output": True,
+            "timeout": timeout_sec,
+            "check": False,
+            "text": True,
+            "errors": "replace",
+        }
+        if stdin is not None:
+            run_kw["stdin"] = stdin
+        proc = subprocess.run(cmd, **run_kw)
     except subprocess.TimeoutExpired as e:
         raise LinuxToolError(f"Command timed out after {timeout_sec}s: {' '.join(cmd)}") from e
 
@@ -273,3 +276,43 @@ def register_binary_tools(mcp):
 
         cmd = ["sha256sum", str(target)]
         return _run(cmd, timeout_sec=timeout_sec)
+
+
+DEFAULT_EWFEXPORT_TIMEOUT_SEC = 3600
+
+
+def register_ewf_tools(mcp):
+    @mcp.tool()
+    def ewfexport(
+        image_path: str,
+        target_path: str,
+        *,
+        output_format: str | None = None,
+        quiet: bool = True,
+        timeout_sec: int = DEFAULT_EWFEXPORT_TIMEOUT_SEC,
+    ) -> dict[str, Any]:
+        """
+        Export Expert Witness / EnCase (E01, etc.) to another format, usually raw (`ewfexport` from libewf).
+        Always uses unattended mode (`-u`, no prompts) for MCP/subprocess use. Writes to `target_path`
+        (parent directories are created). Large images need a high `timeout_sec`.
+        """
+        src = _resolve_path(image_path)
+        if not src.is_file():
+            raise IsADirectoryError(f"ewfexport expects an existing evidence file: {image_path}")
+
+        tgt = Path(target_path).expanduser().resolve()
+        tgt.parent.mkdir(parents=True, exist_ok=True)
+
+        # -u: unattended (no prompts); -q: suppress progress messages (default on for automation)
+        cmd: list[str] = ["ewfexport", "-u"]
+        if quiet:
+            cmd.append("-q")
+        if output_format is not None:
+            cmd.extend(["-f", output_format])
+        cmd.extend(["-t", str(tgt), str(src)])
+        return _run(
+            cmd,
+            timeout_sec=timeout_sec,
+            max_output_bytes=DEFAULT_MAX_OUTPUT_BYTES,
+            stdin=subprocess.DEVNULL,
+        )

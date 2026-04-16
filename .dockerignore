@@ -8,3 +8,5 @@ __pycache__
 .env
 .cursor
 sevice-account.json
+.DS_Store
+cases/.DS_Store

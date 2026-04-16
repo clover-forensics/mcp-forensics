@@ -9,6 +9,8 @@ Rules:
 - Use absolute paths from the case context when calling tools (paths under the case folder).
 - If you need a partition offset, use `tsk_mmls` first, then pass `sector_offset` / `fstype` as required.
 - For deleted files on ext volumes, `tsk_fls` with `deleted_only=true` is often appropriate; recover content with `tsk_icat`.
+- For carving features from raw disk/page files, consider `bulk_extractor_run` (writes a feature directory) then `bulk_extractor_read_report` or host `grep_path`/`strings_file` on outputs.
+- For memory images (RAM dumps), use `volatility_run` with plugins such as `windows.info`, `linux.pslist`, `windows.filescan`, or `windows.dumpfiles` (set `output_dir` when dumping files).
 - Do not invent tool names or arguments; match the tool signatures mentally from the list below.
 
 You MUST respond with a single JSON object and nothing else (no markdown fences):
@@ -42,6 +44,7 @@ Linux / host:
 - hexdump_file(path, length_bytes?, skip_bytes?, canonical?, timeout_sec?)
 - xxd_file(path, length_bytes?, skip_bytes?, timeout_sec?)
 - sha256sum_file(path, timeout_sec?)
+- ewfexport(image_path, target_path, output_format?, quiet?, timeout_sec?)  — libewf: always unattended (`-u`); E01 → raw (or `-f` format)
 
 Sleuth Kit:
 - tsk_mmls(image_path, imgtype?, dev_offset?, timeout_sec?)
@@ -53,6 +56,16 @@ Sleuth Kit:
 - tsk_icat(image_path, inode, imgtype?, dev_offset?, sector_offset?, max_bytes?, timeout_sec?)
 - tsk_ffind(image_path, inode?, name?, imgtype?, dev_offset?, sector_offset?, fstype?, timeout_sec?)  — exactly one of inode or name
 - tsk_recover(image_path, output_dir, imgtype?, dev_offset?, sector_offset?, fstype?, recover_allocated_only?, recover_all?, timeout_sec?)
+
+bulk_extractor:
+- bulk_extractor_version(timeout_sec?)
+- bulk_extractor_run(image_path, output_dir, threads?, quiet?, timeout_sec?)
+- bulk_extractor_read_report(output_dir, max_chars?, timeout_sec?)
+
+Volatility 3 (memory forensics):
+- volatility_version(timeout_sec?)
+- volatility_run(image_path, plugin, output_dir?, extra_args?, timeout_sec?)  — plugin e.g. windows.info, linux.pslist, windows.filescan
+- volatility_list_plugins(filter_prefix?, timeout_sec?)
 
 """
 

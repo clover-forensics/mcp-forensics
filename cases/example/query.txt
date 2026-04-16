@@ -1,0 +1,1 @@
+Recover deleted text files from the ext image and extract the secret password

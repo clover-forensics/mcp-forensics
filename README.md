@@ -28,8 +28,6 @@ docker run --rm \
 
 Note: 
 
-- Use absolute path to local folder for correct volume binding
-
 - You can create your own free Gemini API key through Google AI Studio with any Gmail account.
 
 ### Vertex AI (paid GCP / higher quotas)
@@ -61,9 +59,15 @@ docker run --rm \
 
 Note:
 
+- Use absolute path to local folder for correct volume binding
+
 - `/app/cases/example` is the directory that contains your disk image and other accompanying information you provide. The outcome of the investigation (including steps logging) will be saved in the `logs` subfolder under this directory.
 
 - Download the service account credentials from your GCP account and pass it to the container using volume binding.
+
+- [Optional] Use `--env-file .env` to pass all the environment variables stored in in a .env file to the container at once
+
+- [Optional] Use `--query-file /app/cases/example/query.txt` to pass user query from a file (mutually exclusive with the `--query` argument)
 
 ## (Optional) Shell in container
 
