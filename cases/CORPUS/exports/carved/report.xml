@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dfxml xmloutputversion='1.0'>
+  <metadata 
+  xmlns='http://afflib.org/bulk_extractor/' 
+  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' 
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+    <dc:type>Feature Extraction</dc:type>
+    </metadata>
+  <creator version='1.0'>
+    <program>BULK_EXTRACTOR</program>
+    <version>1.6.1</version>
+    <build_environment>
+      <compiler>11.2.0 (11.2.0)</compiler>
+      <CPPFLAGS>-Wdate-time -D_FORTIFY_SOURCE=2 -I/usr/local/include -DUTC_OFFSET=+0000</CPPFLAGS>
+      <CFLAGS>-g      -g -O3 -ffile-prefix-map=/build/bulk-extractor-Fx1dPy/bulk-extractor-1.6.0=. -flto=auto -ffat-lto-objects -flto=auto -ffat-lto-objects -fstack-protector-strong -Wformat -Werror=format-security -MD -Wpointer-arith -Wmissing-declarations -Wmissing-prototypes -Wshadow -Wwrite-strings -Wcast-align -Waggregate-return -Wbad-function-cast -Wcast-qual -Wundef -Wredundant-decls -Wdisabled-optimization -Wfloat-equal -Wmultichar -Wc++-compat -Wmissing-noreturn -Wall -Wstrict-prototypes -fPIC   -D_FORTIFY_SOURCE=2 </CFLAGS>
+      <CXXFLAGS>-g  -g -O3 -ffile-prefix-map=/build/bulk-extractor-Fx1dPy/bulk-extractor-1.6.0=. -flto=auto -ffat-lto-objects -flto=auto -ffat-lto-objects -fstack-protector-strong -Wformat -Werror=format-security -Wall -MD -D_FORTIFY_SOURCE=2 -Wpointer-arith -Wshadow -Wwrite-strings -Wcast-align -Wredundant-decls -Wdisabled-optimization -Wfloat-equal -Wmultichar -Wmissing-noreturn -Woverloaded-virtual -Wsign-promo -funit-at-a-time -Weffc++ -pthread  -fPIC -D_FORTIFY_SOURCE=2 </CXXFLAGS>
+      <LDFLAGS>-Wl,-Bsymbolic-functions -flto=auto -ffat-lto-objects -flto=auto -Wl,-z,relro -L/usr/local/lib</LDFLAGS>
+      <LIBS>-ljson-c -lstdc++ -lz -ldl  -lcrypto </LIBS>
+      <compilation_date>2022-08-29T23:35:28</compilation_date>
+      </build_environment>
+    <execution_environment>
+      <cpuid>
+        <identification>GenuineIntel</identification>
+        <family>0</family>
+        <model>1</model>
+        <stepping>6</stepping>
+        <efamily>0</efamily>
+        <emodel>0</emodel>
+        <brand>71</brand>
+        <clflush_size>808</clflush_size>
+        <nproc>110</nproc>
+        <apicid>117</apicid>
+        <L1_cache_size>262144</L1_cache_size>
+        </cpuid>
+      <os_sysname>Linux</os_sysname>
+      <os_release>6.8.0-110-generic</os_release>
+      <os_version>#110-Ubuntu SMP PREEMPT_DYNAMIC Thu Mar 19 15:09:20 UTC 2026</os_version>
+      <host>siftworkstation</host>
+      <arch>x86_64</arch>
+      <command_line>bulk_extractor -o /home/sansforensics/cases/CORPUS/exports/carved/ -j 4 /mnt/ewf_cg6/ewf1</command_line>
+      <uid>0</uid>
+      <username>root</username>
+      <start_time>2026-04-16T01:35:02Z</start_time>
+      </execution_environment>
+    </creator>
+  <configuration>
+    <threads>4</threads>
+    <pagesize>16777216</pagesize>
+    <marginsize>4194304</marginsize>
+    <scanners>
+      <scanner>base64</scanner>
+      <scanner>kml</scanner>
+      <scanner>httplogs</scanner>
+      <scanner>net</scanner>
+      <scanner>find</scanner>
+      <scanner>aes</scanner>
+      <scanner>json</scanner>
+      <scanner>accts</scanner>
+      <scanner>email</scanner>
+      <scanner>gps</scanner>
+      <scanner>elf</scanner>
+      <scanner>exif</scanner>
+      <scanner>zip</scanner>
+      <scanner>rar</scanner>
+      <scanner>gzip</scanner>
+      <scanner>evtx</scanner>
+      <scanner>ntfsindx</scanner>
+      <scanner>ntfslogfile</scanner>
+      <scanner>ntfsmft</scanner>
+      <scanner>ntfsusn</scanner>
+      <scanner>utmp</scanner>
+      <scanner>pdf</scanner>
+      <scanner>msxml</scanner>
+      <scanner>winpe</scanner>
+      <scanner>hiberfile</scanner>
+      <scanner>winlnk</scanner>
+      <scanner>winprefetch</scanner>
+      <scanner>windirs</scanner>
+      <scanner>vcard</scanner>
+      <scanner>sqlite</scanner>
+      </scanners>
+    </configuration>
+  <provided_filename>/mnt/ewf_cg6/ewf1</provided_filename>
+  <timestamp name='phase1 start' delta='0.000650' total='0.000650'/>
+  <runtime xmlns:debug="http://www.github.com/simsong/bulk_extractor/issues">
+    <debug:work_start threadid='0' pos0='0' pagesize='16777216' bufsize='20971520'/>
+    <debug:work_start threadid='3' pos0='16777216' pagesize='14352384' bufsize='14352384'/>
+<!-- Time elapsed waiting for 2 threads to finish:
+     (timeout in 60 min.)
+ -->
+    <debug:work_end threadid='3' pos0='16777216' time='1.70283'/>
+    <debug:work_end threadid='0' pos0='0' time='2.13119'/>
+    </runtime>
+  <source>
+    <image_filename>/mnt/ewf_cg6/ewf1</image_filename>
+    <image_size>31129600</image_size>
+    <hashdigest type='MD5'>750b509d8fbed37a5213480aaccfdc61</hashdigest>
+    </source>
+  <feature_files>
+    <feature_file><name>aes_keys</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>alerts</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>ccn</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>ccn_track2</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>domain</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>elf</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>email</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>ether</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>evtx_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>exif</name>
+<count>37</count>
+</feature_file>
+
+    <feature_file><name>find</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>gps</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>httplogs</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>ip</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>jpeg_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>json</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>kml</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>ntfsindx_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>ntfslogfile_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>ntfsmft_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>ntfsusn_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>pii</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>rar</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>rfc822</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>sin</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>sqlite_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>telephone</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>unrar_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>unzip_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>url</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>utmp_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>vcard</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>windirs</name>
+<count>39</count>
+</feature_file>
+
+    <feature_file><name>winlnk</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>winpe</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>winpe_carved</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>winprefetch</name>
+<count>0</count>
+</feature_file>
+
+    <feature_file><name>zip</name>
+<count>0</count>
+</feature_file>
+
+    <thread_wait thread='0'>0</thread_wait>
+    <thread_wait thread='0'>0.041354</thread_wait>
+    <thread_wait thread='1'>2.17589</thread_wait>
+    <thread_wait thread='2'>2.17588</thread_wait>
+    <thread_wait thread='3'>0.072121</thread_wait>
+    </feature_files>
+  <timestamp name='phase1 end' delta='2.176265' total='2.176916'/>
+  <timestamp name='phase2 (shutdown) start' delta='0.000023' total='2.176940'/>
+  <timestamp name='phase2 (shutdown) end' delta='0.000012' total='2.176953'/>
+  <timestamp name='phase3 (histograms) start' delta='0.000003' total='2.176956'/>
+  <timestamp name='phase3 (histograms) end' delta='0.004822' total='2.181778'/>
+  <report>
+    <total_bytes>31129600</total_bytes>
+    <elapsed_seconds>2.196351</elapsed_seconds>
+    <max_depth_seen>0</max_depth_seen>
+    <dup_data_encountered>0</dup_data_encountered>
+    </report>
+  <scanner_times>
+    <path><name>ACCTS</name>
+<calls>2</calls>
+<seconds>0.416489</seconds>
+</path>
+
+    <path><name>AES</name>
+<calls>2</calls>
+<seconds>0.357683</seconds>
+</path>
+
+    <path><name>BASE64</name>
+<calls>2</calls>
+<seconds>0.016390</seconds>
+</path>
+
+    <path><name>ELF</name>
+<calls>2</calls>
+<seconds>0.019127</seconds>
+</path>
+
+    <path><name>EMAIL</name>
+<calls>2</calls>
+<seconds>0.473177</seconds>
+</path>
+
+    <path><name>EVTX</name>
+<calls>2</calls>
+<seconds>0.003303</seconds>
+</path>
+
+    <path><name>EXIF</name>
+<calls>2</calls>
+<seconds>0.039104</seconds>
+</path>
+
+    <path><name>FIND</name>
+<calls>2</calls>
+<seconds>0.040556</seconds>
+</path>
+
+    <path><name>GPS</name>
+<calls>2</calls>
+<seconds>0.002922</seconds>
+</path>
+
+    <path><name>GZIP</name>
+<calls>2</calls>
+<seconds>0.016492</seconds>
+</path>
+
+    <path><name>HIBERFILE</name>
+<calls>2</calls>
+<seconds>0.017735</seconds>
+</path>
+
+    <path><name>HTTPLOGS</name>
+<calls>2</calls>
+<seconds>0.063273</seconds>
+</path>
+
+    <path><name>JSON</name>
+<calls>2</calls>
+<seconds>0.134754</seconds>
+</path>
+
+    <path><name>KML</name>
+<calls>2</calls>
+<seconds>0.003322</seconds>
+</path>
+
+    <path><name>MSXML</name>
+<calls>2</calls>
+<seconds>0.000003</seconds>
+</path>
+
+    <path><name>NET</name>
+<calls>2</calls>
+<seconds>1.961394</seconds>
+</path>
+
+    <path><name>NTFSINDX</name>
+<calls>2</calls>
+<seconds>0.000195</seconds>
+</path>
+
+    <path><name>NTFSLOGFILE</name>
+<calls>2</calls>
+<seconds>0.000169</seconds>
+</path>
+
+    <path><name>NTFSMFT</name>
+<calls>2</calls>
+<seconds>0.000388</seconds>
+</path>
+
+    <path><name>NTFSUSN</name>
+<calls>2</calls>
+<seconds>0.007440</seconds>
+</path>
+
+    <path><name>PDF</name>
+<calls>2</calls>
+<seconds>0.003549</seconds>
+</path>
+
+    <path><name>RAR</name>
+<calls>2</calls>
+<seconds>0.059895</seconds>
+</path>
+
+    <path><name>SQLITE</name>
+<calls>2</calls>
+<seconds>0.003096</seconds>
+</path>
+
+    <path><name>UTMP</name>
+<calls>2</calls>
+<seconds>0.005740</seconds>
+</path>
+
+    <path><name>VCARD</name>
+<calls>2</calls>
+<seconds>0.002745</seconds>
+</path>
+
+    <path><name>WINDIRS</name>
+<calls>2</calls>
+<seconds>0.007635</seconds>
+</path>
+
+    <path><name>WINLNK</name>
+<calls>2</calls>
+<seconds>0.036684</seconds>
+</path>
+
+    <path><name>WINPE</name>
+<calls>2</calls>
+<seconds>0.049890</seconds>
+</path>
+
+    <path><name>WINPREFETCH</name>
+<calls>2</calls>
+<seconds>0.021233</seconds>
+</path>
+
+    <path><name>ZIP</name>
+<calls>2</calls>
+<seconds>0.027065</seconds>
+</path>
+
+    </scanner_times>
+  <rusage>
+    <utime>3.867122</utime>
+    <stime>0.062050</stime>
+    <maxrss>63968</maxrss>
+    <minflt>17862</minflt>
+    <majflt>14</majflt>
+    <nswap>0</nswap>
+    <inblock>4824</inblock>
+    <oublock>424</oublock>
+    <clocktime>2.181977</clocktime>
+    </rusage>
+  </dfxml>
