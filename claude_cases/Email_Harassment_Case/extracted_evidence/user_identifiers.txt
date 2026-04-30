@@ -1,0 +1,22 @@
+=== USER IDENTIFIERS EXTRACTED FROM NETWORK TRAFFIC ===
+
+AOL SYNC USERNAME: m57jean
+- Found in AOL SyncML session data
+- Synchronizing contacts from AOL account
+- Device ID: AFE626E1-58E0-465A-83E4-28D58FE33959
+- Operating System: Windows NT 5.1.0.2600 (Windows XP SP2)
+
+VOIP PHONE NUMBERS (Vonage):
+- 16178766111 (Primary - registered SIP endpoint)
+- 12155682768
+- 14153245805
+
+PHP SESSION IDs:
+- PHPSESSID=762adba03236142ccec305f6a20aaffa (sendanonymousemail.net)
+
+MAC ADDRESSES:
+- 00:1d:6b:99:98:68
+- 00:1d:d9:2e:4f:61
+
+INTERNAL IP: 192.168.1.64
+EXTERNAL IP (NAT): 70.134.91.12

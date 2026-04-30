@@ -1,0 +1,24 @@
+﻿LnkName,BatchKeyPath,Executable,BatchValueName,PinType
+Applications,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+Microsoft Edge,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge,Favorites,(unknown)
+User Pinned,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+TaskBar,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(Directory),Favorites,(Directory)
+,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Microsoft.Windows.Explorer,Favorites,(unknown)
+Applications,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+Store,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Microsoft.WindowsStore_8wekyb3d8bbwe!App,Favorites,(unknown)
+Applications,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+Microsoft Edge,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge,Favorites,SystemPinned
+User Pinned,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+TaskBar,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(Directory),Favorites,(Directory)
+,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Microsoft.Windows.Explorer,Favorites,SystemPinned
+Applications,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+Store,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Microsoft.WindowsStore_8wekyb3d8bbwe!App,Favorites,SystemPinned
+User Pinned,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+TaskBar,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(Directory),Favorites,(Directory)
+Google Chrome.lnk,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Chrome,Favorites,UserPinned
+User Pinned,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+TaskBar,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(Directory),Favorites,(Directory)
+Pidgin.lnk,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,C:\Users\Sarah M\AppData\Roaming\Microsoft\Windows\Pidgin\pidgin.exe,Favorites,UserPinned
+User Pinned,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+TaskBar,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(Directory),Favorites,(Directory)
+Yahoo Messenger.lnk,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,com.squirrel.yahoomessenger.YahooMessenger,Favorites,UserPinned

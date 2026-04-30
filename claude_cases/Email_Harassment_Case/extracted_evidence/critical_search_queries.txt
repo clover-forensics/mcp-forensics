@@ -1,0 +1,18 @@
+=== CRITICAL SEARCH QUERIES EXTRACTED FROM NETWORK TRAFFIC ===
+=== These demonstrate PREMEDITATION and INTENT ===
+
+HIGHLY INCRIMINATING SEARCHES:
+1. "i want to harass my teacher" - DIRECT ADMISSION OF INTENT
+2. "can I go to jail for harassing my teacher?" - Shows awareness of criminal nature
+3. "send anonymous mail" - Searching for methods to hide identity
+4. "sending anonymous mail" - Additional search for anonymous email methods
+5. "how to annoy people" - Hostile intent
+
+ANONYMOUS EMAIL SERVICE SEARCHES:
+- Visited sendanonymousemail.net after Google search
+- Visited willselfdestruct.com via about.com directory for anonymous emails
+
+NON-RELEVANT SEARCHES (establishing browsing pattern):
+- "dark knight trailer"
+- "google calendar"  
+- "sacramento tourist"

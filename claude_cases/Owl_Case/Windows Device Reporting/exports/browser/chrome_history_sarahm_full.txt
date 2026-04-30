@@ -1,0 +1,463 @@
+2017-01-27 05:55:15|http://tools.google.com/chrome/intl/en/welcome.html|Getting Started
+2017-01-27 05:55:15|https://www.google.com/intl/en/chrome/browser/welcome.html|Getting Started
+2017-01-27 05:56:56|https://www.youtube.com/results?search_query=game+theory+harry+potter|game theory harry potter - YouTube
+2017-01-27 05:59:36|https://www.google.com/search?q=pottermore&rlz=1C1CHBD_enUS729US729&oq=pottermore&aqs=chrome..69i57j69i60j69i61.6476j0j7&sourceid=chrome&ie=UTF-8|pottermore - Google Search
+2017-01-27 06:02:03|https://www.pottermore.com/cursed-child|Harry Potter and the Cursed Child - Pottermore
+2017-01-27 06:02:15|https://www.pottermore.com/news|News - Pottermore
+2017-01-27 06:03:01|https://my.pottermore.com/account/confirm-age|Join - Pottermore
+2017-01-27 06:03:20|https://my.pottermore.com/account/join/verify|Join - Pottermore
+2017-01-27 06:04:18|https://my.pottermore.com/account/join|Join - Pottermore
+2017-01-27 06:04:28|https://www.pottermore.com/|Pottermore - The digital heart of the Wizarding World
+2017-01-27 06:05:00|https://www.google.com/#q=brightness+setting|brightness setting - Google Search
+2017-01-27 06:05:03|http://www.howtogeek.com/241771/how-to-adjust-your-pcs-screen-brightness-manually-and-automatically/|How to Adjust Your PC’s Screen Brightness, Manually and Automatically
+2017-01-27 06:05:34|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=owls|
+2017-01-27 06:05:37|https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Athene_noctua_(cropped).jpg/220px-Athene_noctua_(cropped).jpg&imgrefurl=https://en.wikipedia.org/wiki/Owl&h=225&w=220&tbnid=kMS0VIFp8KxUVM:&vet=1&tbnh=180&tbnw=176&docid=R8-ARZRjdXInmM&itg=1&usg=__TxufPR98yF1VA57LE7EUExYgMEs=&sa=X&ved=0ahUKEwjO5r-AkeHRAhWDKyYKHaB7CHwQ_B0IdzAO&ei=3ZyKWI6EE4PXmAGg96HgBw|Google Image Result for https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Athene_noctua_(cropped).jpg/220px-Athene_noctua_(cropped).jpg
+2017-01-27 06:06:44|https://www.pottermore.com/writing-by-jk-rowling|Writing by J.K. Rowling - Pottermore
+2017-01-27 06:06:57|https://www.pottermore.com/collection/jk-rowling-how-the-wizarding-world-works|How the wizarding world works - Pottermore
+2017-01-27 06:07:18|https://my.pottermore.com/shop/cart?return_to=%3Futm_source%3DCartIcon%26utm_medium%3DPottermore%26utm_campaign%3DShopLinkApril2016|Pottermore
+2017-01-27 06:07:18|https://usd.shop.pottermore.com/?utm_source=CartIcon&utm_medium=Pottermore&utm_campaign=ShopLinkApril2016|Pottermore
+2017-01-27 06:07:27|https://usd.shop.pottermore.com/products/harry_potter_the_complete_collection_ebook1-7_english|Harry Potter: The Complete Collection - Pottermore Shop
+2017-01-27 06:07:54|https://usd.shop.pottermore.com/collections/audio-books/english|Digital Audio Books - Pottermore – Tagged "English"
+2017-01-27 06:08:19|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=sirius+the+dog+star|
+2017-01-27 06:08:24|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=sirius+the+dog|sirius the dog - Google Search
+2017-01-27 06:08:28|https://www.google.com/search?q=sirius+the+dog&rlz=1C1CHBD_enUS729US729&espv=2&biw=1536&bih=759&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiAvfzRkeHRAhVMRCYKHTU4ALAQ_AUIBigB|sirius the dog - Google Search
+2017-01-27 06:08:42|https://www.google.com/search?q=sirius+the+dog&rlz=1C1CHBD_enUS729US729&espv=2&biw=1536&bih=759&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiAvfzRkeHRAhVMRCYKHTU4ALAQ_AUIBigB#tbm=isch&q=harry+pottersirius+the+dog|harry pottersirius the dog - Google Search
+2017-01-27 06:08:48|https://www.google.com/search?q=sirius+the+dog&rlz=1C1CHBD_enUS729US729&espv=2&biw=1536&bih=759&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiAvfzRkeHRAhVMRCYKHTU4ALAQ_AUIBigB#tbm=isch&q=harry+potter+sirius+the+dog|harry potter sirius the dog - Google Search
+2017-01-27 06:08:50|https://www.google.com/search?q=sirius+the+dog&rlz=1C1CHBD_enUS729US729&espv=2&biw=1536&bih=759&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiAvfzRkeHRAhVMRCYKHTU4ALAQ_AUIBigB#tbm=isch&q=harry+potter+sirius+the+dog&imgrc=mJS2gHQX-KqjqM%3A|
+2017-01-27 06:08:55|https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjhr6fekeHRAhVIQyYKHROABdgQjRwIBw&url=http%3A%2F%2Fwww.cinemablend.com%2Fnew%2FHarry-Potter-Dog-Star-Now-Homeless-So-Step-Up-Adopt-Padfoot-26960.html&bvm=bv.145063293,d.eWE&psig=AFQjCNFav_f9gOGRrsv51vCU8BRlOzUqHw&ust=1485565728058128|
+2017-01-27 06:08:56|http://www.cinemablend.com/new/Harry-Potter-Dog-Star-Now-Homeless-So-Step-Up-Adopt-Padfoot-26960.html|Harry Potter Dog Star Is Now Homeless, So Step Up And Adopt Padfoot - CINEMABLEND
+2017-01-27 06:09:44|http://www.twitter.com/|Twitter. It's what's happening.
+2017-01-27 06:09:44|https://www.twitter.com/|Twitter. It's what's happening.
+2017-01-27 06:10:45|https://twitter.com/sessions|
+2017-01-27 06:11:03|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=www.instagram|
+2017-01-27 06:11:10|https://www.instagram.com/accounts/login/|Login • Instagram
+2017-01-27 06:11:39|https://www.google.com/#q=instagram|Google
+2017-01-27 06:11:42|https://twitter.com/instagram?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor|
+2017-01-27 06:11:45|https://twitter.com/|Twitter. It's what's happening.
+2017-01-27 06:12:09|http://www.amazon.com/|Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2017-01-27 06:12:18|https://www.amazon.com/s/ref=nb_sb_noss_2/159-6440290-7542161?url=search-alias%3Daps&field-keywords=owl+eggs|Amazon.com: owl eggs
+2017-01-27 06:12:42|https://www.amazon.com/Adorable-Handmade-Matryoshka-Christmas-Decoration/dp/B01MFG5RFK/ref=sr_1_1?ie=UTF8&qid=1485479536&sr=8-1&keywords=owl+eggs|Amazon.com: Adorable Lovely Animal Theme Big Round Eyes Brown Wise Owl Egg Shape Wooden Handmade Nesting Dolls Matryoshka Dolls Set 10 Pieces For Kids Toy Birthday Christmas Gift Home Kids Room Decoration: Toys & Games
+2017-01-27 06:13:06|https://www.google.com/#q=can+you+buy+owl+eggs|can you buy owl eggs - Google Search
+2017-01-27 06:13:13|https://www.google.com/#q=can+you+buy+snow+owl+eggs|can you buy snow owl eggs - Google Search
+2017-01-27 06:13:18|https://www.reference.com/pets-animals/can-buy-snowy-owl-1076a35ab9e3160b|Can you buy a snowy owl? | Reference.com
+2017-01-27 06:13:32|http://www.21food.com/products/fertile-snowy-owl-eggs-for-sale-355573.html|Fertile Snowy Owl eggs for sale products,Cameroon Fertile Snowy Owl eggs for sale supplier
+2017-01-27 06:14:56|https://www.google.com/#q=can+you+buy+snowy+owl+eggs|Google
+2017-01-27 06:15:03|https://www.youtube.com/watch?v=mbC-sDMHypU|Film Theory: Harry Potter, MORE VOLDEMORT than Voldemort! - YouTube
+2017-01-27 06:15:10|https://www.google.com/#q=owl+wingspans+in+america|owl wingspans in america - Google Search
+2017-01-27 06:16:06|https://www.google.com/#q=owl+wingspans+in+america+pdf|owl wingspans in america pdf - Google Search
+2017-01-27 06:16:14|http://www.ncwildlife.org/Portals/0/Learning/documents/Profiles/greathornedowl.pdf|greathornedowl.pdf
+2017-01-27 06:17:00|https://www.pottermore.com/explore-the-story|Explore the story - Pottermore
+2017-01-27 06:17:08|https://www.pottermore.com/collection/creatures|Creatures - Pottermore
+2017-01-27 06:17:34|https://www.pottermore.com/explore-the-story/owls|Owls - Pottermore
+2017-01-27 06:29:53|https://www.youtube.com/watch?v=do20JDmfFQw|Harry Potter Theory: Dumbledore's Horcrux - YouTube
+2017-01-27 06:37:00|https://www.youtube.com/watch?v=0uvkdiTN5vY|Harry Potter Theory: Dumbledore's Horcrux - YouTube
+2017-01-27 06:37:00|https://www.youtube.com/watch?v=E0-Coza3z2E|Film Theory: Is Miss Peregrine's BETTER than Hogwarts? (Miss Peregrine's Home for Peculiar Children) - YouTube
+2017-01-27 06:42:19|https://www.google.com/#q=craigslist|
+2017-01-27 06:42:19|https://www.google.com/url?sa=f&rct=j&url=https://huntington.craigslist.org/&q=&esrc=s&ei=XKWKWL2zJ8bDmwGqoo_ICA&usg=AFQjCNFmv_APfDfRTURi1wMtB9XmBIXP5Q|
+2017-01-27 06:42:19|https://huntington.craigslist.org/|
+2017-01-27 06:42:37|https://huntington.craigslist.org/search/?sort=rel&query=owls&catAbb=sss|huntington for sale "owls" - craigslist
+2017-01-27 06:42:37|https://huntington.craigslist.org/search/sss?query=owls&sort=rel|huntington for sale "owls" - craigslist
+2017-01-27 06:43:15|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=are+owls+endangered|
+2017-01-27 06:43:22|https://www.reference.com/pets-animals/owls-endangered-c769e44150057951|Are owls endangered? | Reference.com
+2017-01-27 06:44:08|https://www.google.com/#q=endangered+owls|endangered owls - Google Search
+2017-01-27 06:44:15|https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwibio_QmeHRAhXeSw0KHUjACGEYABAE&ohost=www.google.com&cid=CAASIuRosa5aKt26iqTbiExedU5Fda10lb4u1Uop4ZPpMPH4Ukg&sig=AOD64_2EE87kpYCqC1V7iXtUFIwsUQg4_Q&q=&ved=0ahUKEwi-wYnQmeHRAhXGQCYKHUY0BYIQ0QwIIQ&adurl=|Northern Spotted Owl Continues to Decline – Endangered Listing Needed | American Bird Conservancy
+2017-01-27 06:44:15|https://abcbirds.org/article/northern-spotted-owl-continues-to-decline-endangered-listing-needed/?gclid=CPej79KZ4dECFQONaQodnsAJ2Q|Northern Spotted Owl Continues to Decline – Endangered Listing Needed | American Bird Conservancy
+2017-01-27 06:44:31|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=monkeys|
+2017-01-27 06:44:43|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=can+you+buy+monkeys|can you buy monkeys - Google Search
+2017-01-27 06:44:49|http://small-pets.lovetoknow.com/buying-pet-monkey|Buying a Pet Monkey
+2017-01-27 06:46:56|http://www.addictinggames.com/|Games - Free Online Games at Addicting Games!
+2017-01-27 06:47:09|http://www.addictinggames.com/action-games/flight-game.jsp|Flight - Free Online Action Games from AddictingGames
+2017-01-27 06:47:43|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=skype+download|
+2017-01-27 06:47:47|https://www.skype.com/en/download-skype/skype-for-computer/|Download Skype for Desktop Computer | Skype
+2017-01-27 06:47:51|https://www.skype.com/en/download-skype/skype-for-windows/downloading/|Downloading and setting up Skype
+2017-01-27 21:59:39|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=pigmy+owl|birdtrader - Google Search
+2017-01-27 22:00:03|https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=0ahUKEwj9wsuq5uLRAhXDLSYKHa9IBeYQFggaMAA&url=http%3A%2F%2Fwww.birdtrader.com%2F&usg=AFQjCNGmQjETjQ9tL9Wkwpgn5cg7FFvBmw&bvm=bv.145063293,d.eWE|
+2017-01-27 22:00:20|http://www.birdtrader.co.uk/list-all-adverts?sstr=snowy+owls&type_id=&ads_cid=&ads_place_name=&ads_place_lat=0&ads_place_long=0&ads_dist=5|All latests birds for sale | Birdtrader
+2017-01-27 22:00:20|http://www.birdtrader.co.uk/list-all-adverts?sstr=snowy%20owls&ads_dist=5|All latests birds for sale | Birdtrader
+2017-01-27 22:00:54|https://www.google.com/search?q=what+do+owls+eat&rlz=1C1CHBD_enUS729US729&oq=what+do+owls+&aqs=chrome.0.0j69i57j0l4.11320j0j4&sourceid=chrome&ie=UTF-8|what do owls eat - Google Search
+2017-01-27 22:01:30|https://www.reference.com/pets-animals/animals-predators-snowy-owl-b4de8dd85c3e4be4?qo=contentSimilarQuestions|What animals are predators of the snowy owl? | Reference.com
+2017-01-27 22:01:41|https://www.reference.com/pets-animals/snowy-owls-eat-341f14692049578d|What do snowy owls eat? | Reference.com
+2017-01-27 22:01:46|https://www.reference.com/pets-animals/great-horned-owls-eat-e6741e494bf14e6e?qo=contentSimilarQuestions|What do great horned owls eat? | Reference.com
+2017-01-27 22:02:10|http://www.birdchick.com/blog/2009/08/big-surprise-snowy-owls-are-not-good-pets|Big Surprise, Snowy Owls Are Not Good Pets! — Birdchick
+2017-01-27 22:02:19|http://internationalowlcenter.org/owls-humans/owlsaspets|Owls as Pets
+2017-01-27 22:02:34|http://www.defenders.org/snowy-owl/what-you-can-do|Snowy Owl | What You Can Do to Help Snowy Owls | Defenders of Wildlife
+2017-01-27 22:03:30|http://aboutpetlife.com/pet-animals/snowy-owl-pet.php|Snowy owl as pet - About Pet Life
+2017-01-27 22:03:50|https://www.google.com/search?q=where+to+keep+a+snowy+owl&rlz=1C1CHBD_enUS729US729&oq=where+to+keep+a+snowy+owl&aqs=chrome..69i57.8064j0j4&sourceid=chrome&ie=UTF-8|where to keep a snowy owl - Google Search
+2017-01-27 22:04:04|https://www.quora.com/How-much-does-an-owl-cost|How much does an owl cost? - Quora
+2017-01-27 22:04:10|http://www.internationalowlcenter.org/owls-humans/owlsaspets|Owls as Pets
+2017-01-27 22:04:12|https://www.google.com/search?q=where+to+keep+a+snowy+owl&rlz=1C1CHBD_enUS729US729&oq=where+to+keep+a+snowy+owl&aqs=chrome..69i57.8064j0j4&sourceid=chrome&ie=UTF-8#q=how+much+does+a+snowy+owl+cost|where to keep a snowy owl - Google Search
+2017-01-27 22:04:30|http://wildlifeadoption.defenders.org/snowyowl|Adopt a Snowy Owl - Wildlife Adoption and Gift Center
+2017-01-27 22:04:30|http://wildlifeadoption.defenders.org/site/RedirectHandler?key=adopt_snowyowl|Adopt a Snowy Owl - Wildlife Adoption and Gift Center
+2017-01-27 22:04:30|http://wildlifeadoption.defenders.org/site/SPageServer?pagename=wagc_snowyowl&s_src=3WEW1100XXXXB&s_subsrc=snowyowldirect|Adopt a Snowy Owl - Wildlife Adoption and Gift Center
+2017-01-27 22:04:30|https://secure.defenders.org/site/SPageServer;jsessionid=00000000.app205b?pagename=wagc_snowyowl&s_src=3WEW1100XXXXB&s_subsrc=snowyowldirect&NONCE_TOKEN=6521A5A9EC8545DE7381AA469E770320|Adopt a Snowy Owl - Wildlife Adoption and Gift Center
+2017-01-27 22:04:47|https://www.quora.com/How-can-you-own-an-owl-What-are-the-steps|How to own an owl? What are the steps - Quora
+2017-01-27 22:05:36|http://exoticpets.about.com/od/birds/a/Pet-Owls.htm|What Should You Know About Having an Owl as a Pet?
+2017-01-27 22:05:58|https://www.google.com/search?q=where+to+keep+a+snowy+owl&rlz=1C1CHBD_enUS729US729&oq=where+to+keep+a+snowy+owl&aqs=chrome..69i57.8064j0j4&sourceid=chrome&ie=UTF-8#q=purchase+a+snowy+owl+in+the+united+states|how to care for a owl - Google Search
+2017-01-27 22:06:00|http://www.barnowltrust.org.uk/captive-barn-owls/|Thinking of keeping a captive Barn Owl? - The Barn Owl Trust
+2017-01-27 22:06:08|http://www.owl-help.org.uk/page19/page21/page21.html|Keeping Owls as Pets | Suffolk Owl Sanctuary
+2017-01-27 22:06:17|https://www.youtube.com/watch?v=MM_HiXmiwNE|Take care Baby Owl (kkang-i) - YouTube
+2017-01-27 22:06:32|https://www.google.com/search?q=where+to+keep+a+snowy+owl&rlz=1C1CHBD_enUS729US729&oq=where+to+keep+a+snowy+owl&aqs=chrome..69i57.8064j0j4&sourceid=chrome&ie=UTF-8#q=how+to+care+for+a+owl|where to keep a snowy owl - Google Search
+2017-01-27 22:06:37|http://audubonportland.org/wcc/currentanimals/april18-2014|Raising a baby owl is hard work — Audubon Society of Portland
+2017-01-27 22:06:52|https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1|Gmail - Free Storage and Email from Google
+2017-01-27 22:06:52|https://mail.google.com/intl/en/mail/help/about.html|Gmail - Free Storage and Email from Google
+2017-01-27 22:06:52|https://www.google.com/intl/en/mail/help/about.html|Gmail - Free Storage and Email from Google
+2017-01-27 22:06:52|https://www.google.com/gmail/about/|Gmail - Free Storage and Email from Google
+2017-01-27 22:06:54|https://accounts.google.com/AccountChooser?service=mail&continue=https://mail.google.com/mail/|Gmail
+2017-01-27 22:06:54|https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1|Gmail
+2017-01-27 22:06:54|https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1#identifier|
+2017-01-27 22:07:04|https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1#password|
+2017-01-27 22:07:14|https://accounts.google.com/CheckCookie?checkedDomains=youtube&checkConnection=youtube%3A152%3A1&pstMsg=1&chtml=LoginDoneHtml&service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&gidl=EgIIDA|Recovery options
+2017-01-27 22:07:14|https://security.google.com/settings/security/interstitials/recoveryoptions?authuser=0&hl=en&service=mail&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fcontinue%3Dhttps%253A%252F%252Fmail.google.com%252Fmail%252F%26service%3Dmail%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26ncpl%3D1%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%253A152%253A1%26pstMsg%3D1|Recovery options
+2017-01-27 22:07:14|https://accounts.google.com/ServiceLogin?service=accountsettings&passive=1209600&osid=1&continue=https://security.google.com/settings/security/interstitials/recoveryoptions?authuser%3D0%26hl%3Den%26service%3Dmail%26continue%3Dhttps://accounts.google.com/ServiceLogin?continue%253Dhttps%25253A%25252F%25252Fmail.google.com%25252Fmail%25252F%2526service%253Dmail%2526hl%253Den%2526authuser%253D0%2526passive%253Dtrue%2526ncpl%253D1%2526sarp%253D1%2526aodrpl%253D1%2526checkedDomains%253Dyoutube%2526checkConnection%253Dyoutube%25253A152%25253A1%2526pstMsg%253D1&followup=https://security.google.com/settings/security/interstitials/recoveryoptions?authuser%3D0%26hl%3Den%26service%3Dmail%26continue%3Dhttps://accounts.google.com/ServiceLogin?continue%253Dhttps%25253A%25252F%25252Fmail.google.com%25252Fmail%25252F%2526service%253Dmail%2526hl%253Den%2526authuser%253D0%2526passive%253Dtrue%2526ncpl%253D1%2526sarp%253D1%2526aodrpl%253D1%2526checkedDomains%253Dyoutube%2526checkConnection%253Dyoutube%25253A152%25253A1%2526pstMsg%253D1&hl=en|Recovery options
+2017-01-27 22:07:14|https://security.google.com/accounts/SetOSID?continue=https%3A%2F%2Fsecurity.google.com%2Fsettings%2Fsecurity%2Finterstitials%2Frecoveryoptions%3Fhl%3Den%26service%3Dmail%26continue%3Dhttps%253A%252F%252Faccounts.google.com%252FServiceLogin%253Fcontinue%253Dhttps%25253A%25252F%25252Fmail.google.com%25252Fmail%25252F%2526service%253Dmail%2526hl%253Den%2526authuser%253D0%2526passive%253Dtrue%2526ncpl%253D1%2526sarp%253D1%2526aodrpl%253D1%2526checkedDomains%253Dyoutube%2526checkConnection%253Dyoutube%25253A152%25253A1%2526pstMsg%253D1%26pli%3D1&osidt=ALWU2ctSkGop5Therv7kEVn7aaABCofYkiuj2Fa3uQpy40xddIZFpbcqJ6tt_qKdTkEJ329nMf22s7K17m3PV63LKDrlK15r2Fhb_mYAwTgYdVX7NqtSXrUREWTdhWgqJ0HT_XkulEYg|Recovery options
+2017-01-27 22:07:14|https://security.google.com/settings/security/interstitials/recoveryoptions?hl=en&service=mail&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fcontinue%3Dhttps%253A%252F%252Fmail.google.com%252Fmail%252F%26service%3Dmail%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26ncpl%3D1%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%253A152%253A1%26pstMsg%3D1&pli=1|Recovery options
+2017-01-27 22:07:14|https://myaccount.google.com/interstitials/recoveryoptions?hl=en&service=mail&continue=https://accounts.google.com/ServiceLogin?continue%3Dhttps%253A%252F%252Fmail.google.com%252Fmail%252F%26service%3Dmail%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26ncpl%3D1%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%253A152%253A1%26pstMsg%3D1&pli=1|Recovery options
+2017-01-27 22:07:14|https://accounts.google.com/ServiceLogin?service=accountsettings&passive=1209600&osid=1&continue=https://myaccount.google.com/interstitials/recoveryoptions?hl%3Den%26service%3Dmail%26continue%3Dhttps://accounts.google.com/ServiceLogin?continue%253Dhttps%25253A%25252F%25252Fmail.google.com%25252Fmail%25252F%2526service%253Dmail%2526hl%253Den%2526authuser%253D0%2526passive%253Dtrue%2526ncpl%253D1%2526sarp%253D1%2526aodrpl%253D1%2526checkedDomains%253Dyoutube%2526checkConnection%253Dyoutube%25253A152%25253A1%2526pstMsg%253D1%26pli%3D1&followup=https://myaccount.google.com/interstitials/recoveryoptions?hl%3Den%26service%3Dmail%26continue%3Dhttps://accounts.google.com/ServiceLogin?continue%253Dhttps%25253A%25252F%25252Fmail.google.com%25252Fmail%25252F%2526service%253Dmail%2526hl%253Den%2526authuser%253D0%2526passive%253Dtrue%2526ncpl%253D1%2526sarp%253D1%2526aodrpl%253D1%2526checkedDomains%253Dyoutube%2526checkConnection%253Dyoutube%25253A152%25253A1%2526pstMsg%253D1%26pli%3D1&hl=en|Recovery options
+2017-01-27 22:07:14|https://myaccount.google.com/accounts/SetOSID?continue=https%3A%2F%2Fmyaccount.google.com%2Finterstitials%2Frecoveryoptions%3Fhl%3Den%26service%3Dmail%26continue%3Dhttps%253A%252F%252Faccounts.google.com%252FServiceLogin%253Fcontinue%253Dhttps%25253A%25252F%25252Fmail.google.com%25252Fmail%25252F%2526service%253Dmail%2526hl%253Den%2526authuser%253D0%2526passive%253Dtrue%2526ncpl%253D1%2526sarp%253D1%2526aodrpl%253D1%2526checkedDomains%253Dyoutube%2526checkConnection%253Dyoutube%25253A152%25253A1%2526pstMsg%253D1%26pli%3D1&osidt=ALWU2cuWksRlj5pod-cRYiYPfs1IWp-bUuJ16EyWDWkaxobk3Bp_iWCl52eq_EuN60kX2ODHvWvqhl-IXZ5T0RpGrG4dTQ1oykh7QjcFogFG0GyX89MlDr6MEl3waV1OROPRrWwbMh5P|Recovery options
+2017-01-27 22:07:14|https://myaccount.google.com/interstitials/recoveryoptions?hl=en&service=mail&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fcontinue%3Dhttps%253A%252F%252Fmail.google.com%252Fmail%252F%26service%3Dmail%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26ncpl%3D1%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%253A152%253A1%26pstMsg%3D1&pli=1|Recovery options
+2017-01-27 22:07:25|https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&hl=en&authuser=0&passive=true&ncpl=1&sarp=1&aodrpl=1&checkedDomains=youtube&checkConnection=youtube%3A152%3A1&pstMsg=1|Gmail
+2017-01-27 22:07:25|https://mail.google.com/accounts/SetOSID?authuser=0&continue=https%3A%2F%2Faccounts.youtube.com%2Faccounts%2FSetSID%3Fssdc%3D1%26sidt%3DALWU2cv14UuCFSD5CVkN0ss0fZahkmqmrohbWzfqZi1HHCXab2YyveRRuBiwTMI0GHZL3kMS5YaG%252BUJAWmRCK18CexOfv4t8dsK7KWf7H9eMS4bzcr2BFqlnPoj%252FqLXWvJOr%252Fx4hj8OaII5EVdqfdpJxaY1CD86%252BO6i6uqTgCMe2xurQFMKoeSK7dEHApUV%252BtSw%252FNbNRTVu2iqsY1g%252F2ZHBXm7hmVsUVXrLQGDWT0Wy6qOWT7c%252BD6LqSIHeiV1981kuA3fg05PyClWeheSoNMKEejhrRzohF1A%253D%253D%26continue%3Dhttps%253A%252F%252Fmail.google.com%252Fmail%252F%253Fpli%253D1%2526auth%253DRAR7vC-uDEffHcaLoOj2ZACUJDq0ki8mkrnn0trua3AVM_kUrtmbSloouy-5HPv7S21MlA.&osidt=ALWU2cujsR5AypaDNquBYjGbcIeuiTcNNMS5Ykr-4Nzvr-zC6HZ_qmryjdkzmEgQ9Zb9I_da-AgT_hHP9yMQfZN4Y4L4cAcUuNJJ-w821WyzZPJTPtpGd74x4QQEZ96kdP62PRMK_sjY|Gmail
+2017-01-27 22:07:25|https://accounts.youtube.com/accounts/SetSID?ssdc=1&sidt=ALWU2cv14UuCFSD5CVkN0ss0fZahkmqmrohbWzfqZi1HHCXab2YyveRRuBiwTMI0GHZL3kMS5YaG%2BUJAWmRCK18CexOfv4t8dsK7KWf7H9eMS4bzcr2BFqlnPoj%2FqLXWvJOr%2Fx4hj8OaII5EVdqfdpJxaY1CD86%2BO6i6uqTgCMe2xurQFMKoeSK7dEHApUV%2BtSw%2FNbNRTVu2iqsY1g%2F2ZHBXm7hmVsUVXrLQGDWT0Wy6qOWT7c%2BD6LqSIHeiV1981kuA3fg05PyClWeheSoNMKEejhrRzohF1A%3D%3D&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fpli%3D1%26auth%3DRAR7vC-uDEffHcaLoOj2ZACUJDq0ki8mkrnn0trua3AVM_kUrtmbSloouy-5HPv7S21MlA.|Gmail
+2017-01-27 22:07:25|https://mail.google.com/mail/?pli=1&auth=RAR7vC-uDEffHcaLoOj2ZACUJDq0ki8mkrnn0trua3AVM_kUrtmbSloouy-5HPv7S21MlA.|Gmail
+2017-01-27 22:07:25|https://mail.google.com/mail/?pli=1|Gmail
+2017-01-27 22:07:50|https://mail.google.com/mail/#inbox/159d73b41b53f2e8|Confirm your Twitter account, Sarah McAvoy - mcavoys87@gmail.com - Gmail
+2017-01-27 22:07:52|https://www.google.com/url?hl=en&q=https://twitter.com/i/redirect?url%3Dhttps%253A%252F%252Ftwitter.com%252Faccount%252Fconfirm_user_email%252F824342308153946112%252FC8D39-5D6AG-148537%253Ft%253D1%2526cn%253DZW1haWxfY29uZmlybV9pbml0%2526sig%253D9b17be8676c68e563451379f659a41e1fbff595b%2526iid%253D6673386465e04977a9436c624e7da387%2526ac%253D1%2526autoactions%253D1485373496%2526uid%253D824342308153946112%2526nid%253D244%252B308%26t%3D1%26cn%3DZW1haWxfY29uZmlybV9pbml0%26sig%3De142a4c4d91ab74d9ad85e8afc4f90d07c946d66%26iid%3D6673386465e04977a9436c624e7da387%26uid%3D824342308153946112%26nid%3D244%2B308&source=gmail&ust=1485623246592000&usg=AFQjCNGLc02QuZ5B7GMPDYRivYPDyJE7Dg|https://twitter.com/account/confirm_user_email/824342308153946112/C8D39-5D6AG-148537?t=1&cn=ZW1haWxfY29uZmlybV9pbml0&sig=9b17be8676c68e563451379f659a41e1fbff595b&iid=6673386465e04977a9436c624e7da387&ac=1&autoactions=1485373496&uid=824342308153946112&nid=244+308
+2017-01-27 22:07:52|https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Faccount%2Fconfirm_user_email%2F824342308153946112%2FC8D39-5D6AG-148537%3Ft%3D1%26cn%3DZW1haWxfY29uZmlybV9pbml0%26sig%3D9b17be8676c68e563451379f659a41e1fbff595b%26iid%3D6673386465e04977a9436c624e7da387%26ac%3D1%26autoactions%3D1485373496%26uid%3D824342308153946112%26nid%3D244%2B308&t=1&cn=ZW1haWxfY29uZmlybV9pbml0&sig=e142a4c4d91ab74d9ad85e8afc4f90d07c946d66&iid=6673386465e04977a9436c624e7da387&uid=824342308153946112&nid=244+308|https://twitter.com/account/confirm_user_email/824342308153946112/C8D39-5D6AG-148537?t=1&cn=ZW1haWxfY29uZmlybV9pbml0&sig=9b17be8676c68e563451379f659a41e1fbff595b&iid=6673386465e04977a9436c624e7da387&ac=1&autoactions=1485373496&uid=824342308153946112&nid=244+308
+2017-01-27 22:07:52|https://twitter.com/account/access|
+2017-01-27 22:07:52|https://twitter.com/account/confirm_user_email/824342308153946112/C8D39-5D6AG-148537?t=1&cn=ZW1haWxfY29uZmlybV9pbml0&sig=9b17be8676c68e563451379f659a41e1fbff595b&iid=6673386465e04977a9436c624e7da387&ac=1&autoactions=1485373496&uid=824342308153946112&nid=244+308|
+2017-01-27 22:08:12|https://mail.google.com/mail/#inbox/159d0e02b296fde4|Sarah, get more out of your new Android device - mcavoys87@gmail.com - Gmail
+2017-01-27 22:08:17|https://mail.google.com/mail/#inbox?compose=new|
+2017-01-27 22:08:40|https://mail.google.com/mail/#inbox?compose=159e0e680847b4da|
+2017-01-27 22:08:49|https://mail.google.com/mail/#inbox?compose=159e0e6a5e204ed1|
+2017-01-27 22:08:57|https://mail.google.com/mail/#inbox?compose=159e0e6c03264a46|
+2017-01-27 22:09:03|https://mail.google.com/mail/#inbox?compose=159e0e6da8e253ea|
+2017-01-27 22:09:24|https://mail.google.com/mail/#inbox?compose=159e0e72a860cbb0|
+2017-01-27 22:09:31|https://mail.google.com/mail/#inbox?compose=159e0e747f5cd02b|
+2017-01-27 22:09:54|https://mail.google.com/mail/#inbox?compose=159e0e79e4fac16c|
+2017-01-27 22:10:00|https://mail.google.com/mail/#inbox?compose=159e0e7b9a9faead|
+2017-01-27 22:10:08|https://mail.google.com/mail/#inbox?compose=159e0e7d66fe25e5|
+2017-01-27 22:10:11|https://mail.google.com/mail/#inbox?compose=159e0e7e32b88097|
+2017-01-27 22:10:24|https://mail.google.com/mail/#inbox?compose=159e0e815d049c6d|
+2017-01-27 22:15:24|https://www.facebook.com/search/top/?q=terry%20bunch|terry bunch - Facebook Search
+2017-01-27 22:16:05|https://www.facebook.com/profile.php?id=100013220888470&ref=br_rs|Monica Neff
+2017-01-27 22:17:51|https://www.facebook.com/search/top/?q=monica%20neff|monica neff - Facebook Search
+2017-01-27 22:17:53|https://www.facebook.com/profile.php?id=100013220888470|Monica Neff
+2017-01-27 22:17:55|https://www.facebook.com/profile.php?id=100013119909406&pnref=lhc.friends|Isaiah Dashner
+2017-01-27 22:18:02|https://www.facebook.com/profile.php?id=100013119909406&lst=100015073810863%3A100013119909406%3A1485537474&sk=friends&source_ref=pb_friends_tl|Isaiah Dashner
+2017-01-27 22:19:46|https://mail.google.com/mail/#inbox/159e0e81a1cf3d48?projector=1|
+2017-01-27 22:27:40|https://www.facebook.com/search/top/?q=owls|owls - Facebook Search
+2017-01-27 22:28:15|https://www.facebook.com/search/top/?q=harry%20potter|harry potter - Facebook Search
+2017-01-27 22:28:34|https://www.facebook.com/DanielJacobRadcliffeFanClub/photos/basw.Abp1RiX4aMWrKP3Pgk1qiRCzmsg858EPRuWVP7PlD-x2o7Ai1bSOAIdMirL-5Z6LMJ7QNYAyhX6pEvC3NV3vPQGylikxwzUSOG9AWyc2TKl29xoz--3wcl9_V6nz-XI7Mska-4-VfQZ4N2paP7Z8P_RVGf-NdbkqNOm37-XMcRy3Kw.941404799301771.1278545035531872.1770440989874445.1270339039691650.1317517158319914.10153098546886610/941404799301771/?type=1&opaqueCursor=AbpLb1qdskXYv8rwopSiBovZm32Ee1s554L80p1IPBtqsyfkIC1RoFYmBBPm4OkpOt4U4K7hgnxxt119vnXfsvENLDB6oTGHMkYYcvvrVfiPT7f7gAEUT-od0ibvK0PX84KgUAO93GZlm-iEnTrevM9HPDNhu98hYuEDQ1Z2sCm1lLoZLuD-cYbvt7SpTHQaIYIDPBUm5OnzFBC99eL6jX-45zJ1S-gSKWEH_bus5Al6Q8TfEugeqBfPqu6bnt8CPOqyEFW_aHTvTqp-rkGi8JQdVjezRUENqzQJ4VtJ4SOvbbW8pVj4vgHnn83SofI5KPfzY8DvCXclnhFkyCTLgt6HzNIjebgM99qtyss4NDJxl0B-aCTng-aopv_ZoVEqhWQSh-xtiqj77CL9Dgr8uWPW3eqUAHjnB5ZTWJ0E08riNyWjwK2ynVnpzg0XmXcszTc8NMN-N-SXxxxAG7druheViMABdcb8tictR89FpHagBRVU8EQZMipZJH_Ncy7xtqiMG7nsVQd7z_sjZHWG-y8nj5wLY8tc3pRw9V6OCpVifS1TRPCT57sRwAHveLGMhh0&theater|
+2017-01-27 22:28:41|https://www.facebook.com/100005001375851/videos/vb.100005001375851/609151835928190/?type=2&theater|
+2017-01-27 22:28:57|https://www.facebook.com/Originalhpfans/photos/basw.Abow3tKjWB7-mHpXChHDJtKP6yBSdb9m20vxgSqBgzj3xzQsN1pnG2mfYs1ZkD2mWt1t4pg3Z0PTWeLMOC06Y9FAx3yeH7q5q21008yfJQB-btQqmODWSWnJ9hBk1cg76ic_Q0CpoISt5HJIqq2PIEOlJNxg-9rGx_qfkNyJK2_8EQ.941404799301771.1278545035531872.1770440989874445.1270339039691650.1317517158319914.10153098546886610/1270339039691650/?type=1&opaqueCursor=AbrJFaje3t-1PCqwYmS9HdbzBsO_rr0UQcrRtles8iLpHx1S1RYPbKgw5Ic2STYkK1GHpV3MCrnPr2NV9VkAqnS88k24PLi8uVe8Lh2NPADDudq5KJk-BFqo24CM5H4bWFn6niYdnQFDYG_JNWOsox6DZyk7Pyi8U-3v4XXljwSTv8pthjbz_KA_8rssqDx24yyxw-QNlmDElRkSJ3Oj6kEtVA1R-4zBtKT3eGldwszhAMmUr4JWm_bghO4CUoCq4SCjGUBmGJMNiEJit4dxwqKu8RQt8RlvfL15n-42ghWM88drdFkNK4Oedvt7h-xd4wj6mxCoC6hJIsM6YApSTOl6wosKpqRW1PLdX1rR1HBz-cRokBOLkMQRMV80cWjqhRwoyacmCU05qboNlDgNFtZaaC2LnGdDK5yQwLJyynrUsRl_qke-QaCTQNqgWSJ-zNFqQTO-pRzvdBW4lUGuWULgT2t4zxRgvg5RSlZEP-W11bF71i45YqEiGEvmNhoqR3H_63xIlGGo82rpc3PuAQZs&theater|
+2017-01-27 22:29:00|https://www.facebook.com/search/top/?q=harry%20potter%20owl|harry potter owl - Facebook Search
+2017-01-27 22:29:07|https://www.facebook.com/search/top/?q=snowy%20owl|snowy owl - Facebook Search
+2017-01-27 22:29:56|http://www.harrypotter.com/|
+2017-01-27 22:29:56|http://hpwishlist.warnerbros.com/|
+2017-01-27 22:30:01|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=harry+potter.com|Google
+2017-01-27 22:30:06|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=amazon|
+2017-01-27 22:30:06|https://www.google.com/url?sa=f&rct=j&url=https://www.amazon.com/&q=&esrc=s&ei=nIOLWMTEO4OTmQHw5ajIBw&usg=AFQjCNG23r9yE3YmEK8osV2JRXJbTJkBrw|
+2017-01-27 22:30:07|https://www.amazon.com/|Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2017-01-27 22:30:22|https://www.amazon.com/b/ref=br_pdt_mgUpt?_encoding=UTF8&node=2858778011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=S5J2RM20RWE8XDWEJWYN&pf_rd_t=36701&pf_rd_p=9974eadb-3306-415d-bd0b-c251318255d0&pf_rd_i=desktop|Amazon.com: Amazon Video: Amazon Video
+2017-01-27 22:30:53|https://www.amazon.com/dp/B001FD5KJM/ref=atv_hm_hom_1_c_pmbop_5_brws3?_encoding=UTF8&pf_rd_i=home&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=2652270342&pf_rd_r=NHC4TZC2M8GJHGF78TX7&pf_rd_s=center-15&pf_rd_t=12401|Amazon.com: Iron Man: Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow: Amazon Digital Services LLC
+2017-01-27 22:31:03|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=birdtrader.com|birdtrader.com - Google Search
+2017-01-27 22:31:04|http://www.birdtrader.com/|Birds for sale
+2017-01-27 22:31:07|http://www.birdtrader.co.uk/list-all-adverts?sstr=owl&type_id=&ads_cid=&ads_place_name=&ads_place_lat=0&ads_place_long=0&ads_dist=5|All latests birds for sale | Birdtrader
+2017-01-27 22:31:09|http://www.birdtrader.co.uk/|Birds for sale
+2017-01-27 22:31:11|http://www.birdtrader.co.uk/list-all-adverts?sstr=owl&ads_dist=5|All latests birds for sale | Birdtrader
+2017-01-27 22:31:21|http://www.birdtrader.co.uk/list-all-adverts?sstr=owl&ads_dist=5&page=2|Browse All latests birds for sale | Birdtrader
+2017-01-27 22:31:35|http://www.birdtrader.co.uk/list-all-adverts?sstr=owl&ads_dist=5&page=3|Find All latests birds for sale | Birdtrader
+2017-01-27 22:31:50|http://www.birdtrader.co.uk/owls/breeding-pair-ashy-faced/557508|Breeding pair ashy faced for sale in Norfolk, Eastern | Birdtrader
+2017-01-27 22:31:57|http://www.birdtrader.co.uk/owls/dark-breasted-barn-owls/557507|Dark Breasted Barn Owls for sale in Norfolk, Eastern | Birdtrader
+2017-01-27 22:32:13|https://www.amazon.com/b/ref=br_pdt_mgLwt?_encoding=UTF8&node=163856011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=Z05CPTKA8H4MWD10PF79&pf_rd_t=36701&pf_rd_p=9974eadb-3306-415d-bd0b-c251318255d0&pf_rd_i=desktop|Amazon.com: Digital Music
+2017-01-27 22:33:07|https://mail.google.com/mail/#inbox/159e0e81a1cf3d48|Owls for Sale - mcavoys87@gmail.com - Gmail
+2017-01-27 22:33:59|https://www.amazon.com/b/ref=s9_acss_bw_cg_P1V2D_2a1_w?node=15451028011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-2&pf_rd_r=4NZMSSQ95ZEMF1Y4ZFGQ&pf_rd_t=101&pf_rd_p=2d64d528-1d32-4ddc-a893-9442f9e34ede&pf_rd_i=163856011|Amazon.com: Echo: Digital Music
+2017-01-27 22:34:07|https://www.amazon.com/dp/B00X4WHP5E/ref=s9_acss_bw_cg_DMECHO_5a1_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-2&pf_rd_r=699BT6AXE2FXS6RH8CWG&pf_rd_t=101&pf_rd_p=97548222-1aea-443d-9c10-5f985f251e5c&pf_rd_i=15451028011|Amazon Echo - Amazon Official Site - Alexa-Enabled
+2017-01-27 22:34:34|https://www.amazon.com/b/ref=GHP_CT_Breakfast_cereal/ref=s9_acss_bw_ct_GroBevsT_ct4_a1_w?_encoding=UTF8&node=6524561011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-4&pf_rd_r=6EP0MN2W6THH7S9RQDT5&pf_rd_t=101&pf_rd_p=d0c1e7cd-019b-58a1-8c93-c061dc894157&pf_rd_i=16310101|Amazon.com: Cold Cereals: Grocery & Gourmet Food
+2017-01-27 22:34:46|https://www.amazon.com/b/ref=br_pdt_mgLwt?_encoding=UTF8&node=16310101&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=ZTJ7M7XA5XXEEBSMM552&pf_rd_t=36701&pf_rd_p=9974eadb-3306-415d-bd0b-c251318255d0&pf_rd_i=desktop|Amazon.com: Grocery & Gourmet Food
+2017-01-27 22:34:50|https://www.amazon.com/b/ref=GHP_CT_Bevs/ref=s9_acss_bw_ct_GroBevsT_ct2_cta_w?_encoding=UTF8&node=16310231&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-4&pf_rd_r=6EP0MN2W6THH7S9RQDT5&pf_rd_t=101&pf_rd_p=d0c1e7cd-019b-58a1-8c93-c061dc894157&pf_rd_i=16310101|Amazon.com: Coffee, Tea & Other Beverages: Grocery
+2017-01-27 22:35:00|https://www.amazon.com/gp/product/B0088MXS6U/ref=s9_acsd_newrz_hd_bw_b16R2F_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-11&pf_rd_r=TBECDS6BQB5CTEDZ795D&pf_rd_t=101&pf_rd_p=4524dc8b-d0de-5784-8696-274fc2f26c22&pf_rd_i=16310231|Bai Rainforest Variety Pack, Antioxidant Infused Beverages, 18 Fl. Oz. Bottles (Pack of 12): Amazon.com: Grocery & Gourmet Food
+2017-01-27 22:35:04|https://www.amazon.com/gp/product/B0088MXS6U/ref=s9_acsd_newrz_hd_bw_b16R2F_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-11&pf_rd_r=TBECDS6BQB5CTEDZ795D&pf_rd_t=101&pf_rd_p=4524dc8b-d0de-5784-8696-274fc2f26c22&pf_rd_i=16310231&th=1|
+2017-01-27 22:36:10|https://www.amazon.com/gp/goldbox/ref=nav_cs_gb|Gold Box Deals | Today's Deals - Amazon.com
+2017-01-27 22:36:16|https://www.amazon.com/Pack-Joiot-Flash-Drive-Black/dp/B01J5OYEM6/ref=gbps_img_s-3_bb19_6890b281?smid=AJQOH5UYDZLS3&pf_rd_p=41fd713f-6bfe-4299-a021-d2b94872bb19&pf_rd_s=slot-3&pf_rd_t=701&pf_rd_i=gb_main&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=74GNC0KHYR51R0YQ6V9R|Amazon.com: [2 Pack] Joiot 32GB USB 3.0 Flash Drive, Black / Red: Computers & Accessories
+2017-01-27 22:36:32|https://www.amazon.com/gp/goldbox/ref=nav_cs_gb?nocache=1485538576490|
+2017-01-27 22:36:32|https://www.amazon.com/gp/goldbox/ref=gbps_ftr_s-3_bb19_page_2?nocache=1485538576490&gb_f_GB-SUPPLE=page:2,sortOrder:BY_SCORE,dealsPerPage:40&pf_rd_p=41fd713f-6bfe-4299-a021-d2b94872bb19&pf_rd_s=slot-3&pf_rd_t=701&pf_rd_i=gb_main&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=EDW4B71AZHKJ549DA9MF|
+2017-01-27 22:36:46|https://www.amazon.com/gp/goldbox/ref=gbps_ftr_s-3_bb19_page_2?nocache=1485538606352&gb_f_GB-SUPPLE=page:2,sortOrder:BY_SCORE,dealsPerPage:40&pf_rd_p=41fd713f-6bfe-4299-a021-d2b94872bb19&pf_rd_s=slot-3&pf_rd_t=701&pf_rd_i=gb_main&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=EDW4B71AZHKJ549DA9MF|
+2017-01-27 22:36:46|https://www.amazon.com/ref=nav_logo|Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2017-01-27 22:42:56|https://www.facebook.com/sarah.mcavoy.9638#|(2) Sarah Mcavoy
+2017-01-27 22:45:22|https://www.facebook.com/logout.php|Facebook - Log In or Sign Up
+2017-01-27 22:45:22|https://www.facebook.com/?stype=lo&jlou=AffCJjvGqhNSYw8z8yAWNo7sDsLyumqVlzNGwHgU7S3E1LfVpy_ioLr26OMS0WkU8AFjKKHFso6_4AZXrkfKWzsXi9UjLBbL9z0Ly08yuknpGg&smuh=14599&lh=Ac_s7EGoljUbxwlH|Facebook - Log In or Sign Up
+2017-01-29 02:45:07|http://www.mcds.com/|AT&T Wi-Fi Service @ McDonalds
+2017-01-29 02:45:07|http://nmd.mcd01461.pit.wayport.net/index.adp?MacAddr=A4%3a34%3aD9%3a55%3a64%3a9B&IpAddr=192%2e168%2e5%2e42&Ip6Addr=&vsgpId=&vsgId=103408&UserAgent=&ProxyHost=&TunnelIfId=395457&VlanId=20&origDest=http%3a%2f%2fwww%2emcds%2ecom%2f|AT&T Wi-Fi Service @ McDonalds
+2017-01-29 02:45:11|http://nmd.mcd01461.pit.wayport.net/add-ins/mcd2013/mcd_cp_redir.adp|
+2017-01-29 02:45:11|http://wifi.mcdonalds.com/wireless/welcome/?location=01461|McDonald's Wifi
+2017-01-29 02:46:46|https://www.youtube.com/results?search_query=how+to+care+for+owls|how to care for owls - YouTube
+2017-01-29 02:48:32|https://www.facebook.com/login.php?login_attempt=1&lwv=110|(1) Facebook
+2017-01-29 02:50:55|https://www.youtube.com/watch?v=vV18Vc6quVY|Owls To You - How it all started! - YouTube
+2017-01-29 02:50:55|https://www.youtube.com/watch?v=1Zh50kOKQR0|What to do if you want a pet owl - YouTube
+2017-01-29 02:51:13|https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjY1e6e6eXRAhVUNmkKHUGmCyAYABAA&ohost=www.google.com&cid=CAESIeD2dQVcP2TWhKS0zlI5P1hVe4fj4mf6OCf_Zz_NcsPskQ&sig=AOD64_1B8EOOtA1PiaV0nx1Q9qTVHvRVcg&q=&ved=0ahUKEwiTrume6eXRAhWr8YMKHefKDtIQ0QwILQ&adurl=|Harry Potter and the Cursed Child Tickets | Buy or Sell Harry Potter and the Cursed Child Theatre Tickets - viagogo
+2017-01-29 02:51:13|http://www.viagogo.com/_C-36402?AffiliateID=49&adposition=1t1&AdID=164172293186&LCID=2057&PCID=PSUSGOOARTHARRY298E35C3E4-094126&MetroRegionID=&psc=hp-1&gclid=CjwKEAiAn7HEBRDHwNqitoWqsQcSJAADWmI2MCYoW3aG25VIenXZIEtxxK_e4bk7xzQodvbpehVqkxoCm8zw_wcB|Harry Potter and the Cursed Child Tickets | Buy or Sell Harry Potter and the Cursed Child Theatre Tickets - viagogo
+2017-01-29 02:51:13|http://www.viagogo.com/Theater-Tickets/Theater/Harry-Potter-and-the-Cursed-Child-Tickets?AffiliateID=49&adposition=1t1&AdID=164172293186&LCID=2057&PCID=PSUSGOOARTHARRY298E35C3E4-094126&MetroRegionID=&psc=hp-1&gclid=CjwKEAiAn7HEBRDHwNqitoWqsQcSJAADWmI2MCYoW3aG25VIenXZIEtxxK_e4bk7xzQodvbpehVqkxoCm8zw_wcB|Harry Potter and the Cursed Child Tickets | Buy or Sell Harry Potter and the Cursed Child Theatre Tickets - viagogo
+2017-01-29 02:51:13|http://www.viagogo.com/Theater-Tickets/Theater/Harry-Potter-and-the-Cursed-Child-Tickets?AffiliateID=49&adposition=1t1&AdID=164172293186&PCID=PSUSGOOARTHARRY298E35C3E4-094126&MetroRegionID=&psc=hp-1&gclid=CjwKEAiAn7HEBRDHwNqitoWqsQcSJAADWmI2MCYoW3aG25VIenXZIEtxxK_e4bk7xzQodvbpehVqkxoCm8zw_wcB|Harry Potter and the Cursed Child Tickets | Buy or Sell Harry Potter and the Cursed Child Theatre Tickets - viagogo
+2017-01-29 02:53:16|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=harry+potter+screenplay|Google
+2017-01-29 02:53:28|https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjY1e6e6eXRAhVUNmkKHUGmCyAYABAI&ohost=www.google.com&cid=CAESIeD2dQVcP2TWhKS0zlI5P1hVe4fj4mf6OCf_Zz_NcsPskQ&sig=AOD64_1sLikP4QQPwS6ErdYr412HGfYyXw&ctype=5&q=&ved=0ahUKEwiTrume6eXRAhWr8YMKHefKDtIQww8IIw&adurl=|Fantastic Beasts and Where to Find Them: The Original Screenplay - Books on Google Play
+2017-01-29 02:53:28|http://clickserve.dartsearch.net/link/click?lid=92700006377993879&ds_s_kwgid=58700000439475245&ds_e_adid=57147375388&ds_e_product_group_id=95357819308&ds_e_product_id=DU0LDAAAQBAJ&ds_e_product_merchant_id=6790463&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_e_ad_type=pla&ds_s_inventory_feed_id=97700000000003701&ds_url_v=2&ds_dest_url=http://play.google.com/store/books/details?id=DU0LDAAAQBAJ&source=productsearch&utm_source=HA_Desktop_US&utm_medium=SEM&utm_campaign=PLA&pcampaignid=MKTAD0930BO1|Fantastic Beasts and Where to Find Them: The Original Screenplay - Books on Google Play
+2017-01-29 02:53:28|https://clickserve.dartsearch.net/link/click?lid=92700006377993879&ds_s_kwgid=58700000439475245&ds_e_adid=57147375388&ds_e_product_group_id=95357819308&ds_e_product_id=DU0LDAAAQBAJ&ds_e_product_merchant_id=6790463&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_e_ad_type=pla&ds_s_inventory_feed_id=97700000000003701&ds_url_v=2&ds_dest_url=http://play.google.com/store/books/details?id=DU0LDAAAQBAJ&source=productsearch&utm_source=HA_Desktop_US&utm_medium=SEM&utm_campaign=PLA&pcampaignid=MKTAD0930BO1|Fantastic Beasts and Where to Find Them: The Original Screenplay - Books on Google Play
+2017-01-29 02:53:28|https://ad.doubleclick.net/clk;254401896;78185125;p;u=ds&sv1=6377993879&sv2=2971280810044003&sv3=8215570968244960456;%3fhttp://play.google.com/store/books/details?id=DU0LDAAAQBAJ&source=productsearch&utm_source=HA_Desktop_US&utm_medium=SEM&utm_campaign=PLA&pcampaignid=MKTAD0930BO1&gclid=CLHq6-Tp5dECFZF5gQodiSQH5A&gclsrc=ds|Fantastic Beasts and Where to Find Them: The Original Screenplay - Books on Google Play
+2017-01-29 02:53:28|http://play.google.com/store/books/details?id=DU0LDAAAQBAJ&source=productsearch&utm_source=HA_Desktop_US&utm_medium=SEM&utm_campaign=PLA&pcampaignid=MKTAD0930BO1&gclid=CLHq6-Tp5dECFZF5gQodiSQH5A&gclsrc=ds|Fantastic Beasts and Where to Find Them: The Original Screenplay - Books on Google Play
+2017-01-29 02:53:28|https://play.google.com/store/books/details?id=DU0LDAAAQBAJ&source=productsearch&utm_source=HA_Desktop_US&utm_medium=SEM&utm_campaign=PLA&pcampaignid=MKTAD0930BO1&gclid=CLHq6-Tp5dECFZF5gQodiSQH5A&gclsrc=ds|Fantastic Beasts and Where to Find Them: The Original Screenplay - Books on Google Play
+2017-01-29 02:54:23|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&authuser=0&hl=en|Google Play
+2017-01-29 02:54:23|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en|Google Play
+2017-01-29 02:54:36|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT6|
+2017-01-29 03:03:12|https://www.youtube.com/results?search_query=moviebob+harry+potter|moviebob harry potter - YouTube
+2017-01-29 03:09:40|https://www.youtube.com/watch?v=qqPdfwFyGn8|HARRY POTTER & THE HALF-BLOOD PRINCE (Escape to the Movies) - YouTube
+2017-01-29 03:09:49|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT7|
+2017-01-29 03:09:50|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT8|
+2017-01-29 03:09:52|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT9|
+2017-01-29 03:09:53|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT11|
+2017-01-29 03:09:54|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT12|
+2017-01-29 03:09:56|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT13.w.7.0.0|
+2017-01-29 03:09:56|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT14.w.10.0.7|
+2017-01-29 03:09:57|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT16.w.5.0.9|
+2017-01-29 03:09:57|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT17.w.11.0.4|
+2017-01-29 03:09:58|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT19.w.5.0.5|
+2017-01-29 03:09:59|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT20.w.8.0.13|
+2017-01-29 03:09:59|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT21.w.11.0.3|
+2017-01-29 03:09:59|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT23.w.7.0.2|
+2017-01-29 03:10:01|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT24.w.7.0.7|
+2017-01-29 03:10:01|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT26|
+2017-01-29 03:10:01|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT27.w.5.0.20|
+2017-01-29 03:10:02|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.PT28.w.10.0.4|
+2017-01-29 03:10:02|https://play.google.com/books/reader?id=DU0LDAAAQBAJ&printsec=frontcover&output=reader&hl=en&pg=GBS.ZZ0|
+2017-01-29 03:15:34|https://www.youtube.com/watch?v=-7YJz9oUlu8|THE HUNGER GAMES: CATCHING FIRE (Escape to the Movies) - YouTube
+2017-01-29 03:15:45|https://www.google.com/#q=falcons|falcons - Google Search
+2017-01-29 03:15:57|https://www.google.com/aclk?sa=L&ai=DChcSEwjv6MDn7uXRAhWWjGkKHRTnChsYABAA&sig=AOD64_3tJqRFmOkNMD-OhhIoM8pnic66kw&q=&ved=0ahUKEwjz37bn7uXRAhWC0YMKHYx_BRUQ0QwIGA&adurl=|Informationvine.com
+2017-01-29 03:15:57|http://www.informationvine.com/slp?&q=falconry+birds&sid=516be1e7-18fe-40d3-9da2-34864ed041f5-0-iv_gse&kwid=falconry%20birds&cid=153057073583&site=|Informationvine.com
+2017-01-29 03:15:57|https://www.informationvine.com/index?qsrc=999&qo=semQuery&ad=semD&o=603075&l=sem&askid=516be1e7-18fe-40d3-9da2-34864ed041f5-0-iv_gse&q=falconry%20birds&dqi=&am=exact&an=google_s|Informationvine.com
+2017-01-29 03:17:22|https://www.google.com/#q=falcons+birds|Google
+2017-01-29 03:17:46|http://www.artofmanliness.com/2009/12/30/an-introduction-to-falconry/|
+2017-01-29 03:17:57|https://www.google.com/aclk?sa=L&ai=DChcSEwj9mr-Z7-XRAhUIDWkKHYvSAL0YABAG&sig=AOD64_21dce0wvh35IjifYxB8leebjH3_Q&q=&ved=0ahUKEwiKi7iZ7-XRAhVC2IMKHX3vBnIQ0QwIKQ&adurl=|getting started in falconry - Chowist - Web Results
+2017-01-29 03:17:57|https://www.chowist.com/search?s_pt=aolsem&s_it=aolsem&s_chn=6&s_dto=d&s_gl=US&q=getting%20started%20in%20falconry|getting started in falconry - Chowist - Web Results
+2017-01-29 03:18:02|https://www.google.com/#q=where+can+I+learn+falconry|Google
+2017-01-29 03:20:02|https://www.tumblr.com/openid/register|Yahoo
+2017-01-29 03:20:02|https://login.yahoo.com/account/create?specId=usernameRegFreeformGender&.bucket=mbr-userreg&src=tumblr&done=https%3A%2F%2Fapi.login.yahoo.com%2Foauth2%2Frequest_auth%3Fresponse_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.tumblr.com%252Fopenid%252Fconnect%26client_id%3Ddj0yJmk9eDczSEtQeDc5WG9pJmQ9WVdrOVJUSm9aVmxVTjJVbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD01Yg--%26nonce%3D9618d1b06d54884bf7e448c1fc5b61a9%26state%3D843b1db42dee82058cb32309c7764fdc%26scope%3Dopenid%2Bsdpp-w&.src=tumblr&.pd=c%3DRg.cJXHJGc1lYEe0TWrQSBHXYGdU8eYc4Q5q#_=_|Yahoo
+2017-01-29 03:21:06|https://login.yahoo.com/account/create?src=tumblr&intl=us&altreg=&specId=usernameRegFreeformGender&context=reg&done=https%3A%2F%2Flogin.yahoo.com%2Faccount%2Ftumblr-migration%3Fcombine%3D0%26done%3Dhttps%253A%252F%252Fapi.login.yahoo.com%252Foauth2%252Frequest_auth%253Fresponse_type%253Dcode%2526redirect_uri%253Dhttps%25253A%25252F%25252Fwww.tumblr.com%25252Fopenid%25252Fconnect%2526client_id%253Ddj0yJmk9eDczSEtQeDc5WG9pJmQ9WVdrOVJUSm9aVmxVTjJVbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD01Yg--%2526nonce%253D9618d1b06d54884bf7e448c1fc5b61a9%2526state%253D843b1db42dee82058cb32309c7764fdc%2526scope%253Dopenid%252Bsdpp-w&supress=1|Yahoo
+2017-01-29 03:21:46|https://login.yahoo.com/account/create?intl=us&src=tumblr&altreg=&specId=usernameRegFreeformGender&context=reg&done=https%3A%2F%2Flogin.yahoo.com%2Faccount%2Ftumblr-migration%3Fcombine%3D0%26done%3Dhttps%253A%252F%252Fapi.login.yahoo.com%252Foauth2%252Frequest_auth%253Fresponse_type%253Dcode%2526redirect_uri%253Dhttps%25253A%25252F%25252Fwww.tumblr.com%25252Fopenid%25252Fconnect%2526client_id%253Ddj0yJmk9eDczSEtQeDc5WG9pJmQ9WVdrOVJUSm9aVmxVTjJVbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD01Yg--%2526nonce%253D9618d1b06d54884bf7e448c1fc5b61a9%2526state%253D843b1db42dee82058cb32309c7764fdc%2526scope%253Dopenid%252Bsdpp-w&supress=1|Yahoo
+2017-01-29 03:22:00|https://www.youtube.com/watch?v=DWsHmh4oZIs|THE HUNGER GAMES (Escape to the Movies) - YouTube
+2017-01-29 03:22:12|https://login.yahoo.com/account/challenge/recaptcha?intl=us&src=tumblr&altreg=&specId=usernameRegFreeformGender&context=reg&done=https%3A%2F%2Flogin.yahoo.com%2Faccount%2Ftumblr-migration%3Fcombine%3D0%26done%3Dhttps%253A%252F%252Fapi.login.yahoo.com%252Foauth2%252Frequest_auth%253Fresponse_type%253Dcode%2526redirect_uri%253Dhttps%25253A%25252F%25252Fwww.tumblr.com%25252Fopenid%25252Fconnect%2526client_id%253Ddj0yJmk9eDczSEtQeDc5WG9pJmQ9WVdrOVJUSm9aVmxVTjJVbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD01Yg--%2526nonce%253D9618d1b06d54884bf7e448c1fc5b61a9%2526state%253D843b1db42dee82058cb32309c7764fdc%2526scope%253Dopenid%252Bsdpp-w&supress=1&authMechanism=reg&authCredentialsType=WyJjb29raWVzIl0%3D&yid=mcavoys87%40gmail.com&dname=mcavoys87%40gmail.com&s=QQ--&c=9meVuHP.2YI2zP8.c1qa5rCNpuZ91JEcDQ9Th7Unpgw.mmxGlcpAMm5860i4_BtphVY7e7Fpn6ejk.zcMK_mIVTun3eau7Y9tozHCvSMpSoniQVHudCtiNiiUa2uw7CzSWB82h18i1BBIlLRIE5gkYSKufLE1yiZFvhlbBLGNUkxMsYJO8eAN0h_IK7gB4Rf5qJtiecid0vP.5VxsdR8sBSQAHUYjKA4FJ6KPXw-~A&crumb=fYuXyZUBA61&acrumb=WqhERlA5|Tumblr
+2017-01-29 03:22:12|https://login.yahoo.com/account/create/success?intl=us&src=tumblr&altreg=&specId=usernameRegFreeformGender&context=reg&done=https%3A%2F%2Flogin.yahoo.com%2Faccount%2Ftumblr-migration%3Fcombine%3D0%26done%3Dhttps%253A%252F%252Fapi.login.yahoo.com%252Foauth2%252Frequest_auth%253Fresponse_type%253Dcode%2526redirect_uri%253Dhttps%25253A%25252F%25252Fwww.tumblr.com%25252Fopenid%25252Fconnect%2526client_id%253Ddj0yJmk9eDczSEtQeDc5WG9pJmQ9WVdrOVJUSm9aVmxVTjJVbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD01Yg--%2526nonce%253D9618d1b06d54884bf7e448c1fc5b61a9%2526state%253D843b1db42dee82058cb32309c7764fdc%2526scope%253Dopenid%252Bsdpp-w&supress=1&authMechanism=reg&authCredentialsType=WyJjb29raWVzIl0%3D&yid=mcavoys87%40gmail.com&dname=mcavoys87%40gmail.com&crumb=jQIjg%2FvUg62&acrumb=WqhERlA5&mWait=1&scrumb=RCOm7lmNG5M|Tumblr
+2017-01-29 03:22:12|https://login.yahoo.com/account/tumblr-migration?combine=0&done=https%3A%2F%2Fapi.login.yahoo.com%2Foauth2%2Frequest_auth%3Fresponse_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.tumblr.com%252Fopenid%252Fconnect%26client_id%3Ddj0yJmk9eDczSEtQeDc5WG9pJmQ9WVdrOVJUSm9aVmxVTjJVbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD01Yg--%26nonce%3D9618d1b06d54884bf7e448c1fc5b61a9%26state%3D843b1db42dee82058cb32309c7764fdc%26scope%3Dopenid%2Bsdpp-w&crumb=jQIjg%2FvUg62|Tumblr
+2017-01-29 03:22:12|https://api.login.yahoo.com/oauth2/request_auth?response_type=code&redirect_uri=https%3A%2F%2Fwww.tumblr.com%2Fopenid%2Fconnect&client_id=dj0yJmk9eDczSEtQeDc5WG9pJmQ9WVdrOVJUSm9aVmxVTjJVbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD01Yg--&nonce=9618d1b06d54884bf7e448c1fc5b61a9&state=843b1db42dee82058cb32309c7764fdc&scope=openid+sdpp-w|Tumblr
+2017-01-29 03:22:12|https://www.tumblr.com/openid/connect?code=gpwufrn&state=843b1db42dee82058cb32309c7764fdc|Tumblr
+2017-01-29 03:22:12|https://www.tumblr.com/register/pick-a-name|Tumblr
+2017-01-29 03:22:54|https://www.tumblr.com/getting_to_know_tumblr|Tumblr
+2017-01-29 03:26:20|https://accounts.google.com/ServiceLogin|Sign in - Google Accounts
+2017-01-29 03:27:20|https://www.youtube.com/watch?v=9GHTfrUXebQ|BREAKING DAWN: PART 1 (Escape to the Movies) - YouTube
+2017-01-29 03:27:32|https://www.youtube.com/watch?v=zeOKBklM_5s|Game Theory: Luigi, the RICHEST Man in the Mushroom Kingdom? (Super Mario Bros) - YouTube
+2017-01-29 03:28:07|https://accounts.google.com/signin/challenge/sl/password|My Account
+2017-01-29 03:28:07|https://accounts.google.com/CheckCookie?checkedDomains=youtube&checkConnection=youtube%3A101%3A1&pstMsg=1&chtml=LoginDoneHtml&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gidl=EgIIAA|My Account
+2017-01-29 03:28:07|https://accounts.youtube.com/accounts/SetSID?ssdc=1&sidt=ALWU2cv3dSmxt5jfLSEVIhYLBiV%2Bh6R66KvPqx55c584n55LLUtPdTSFKtmyz6A%2FhqOZVUkbdU1JZn8xcnMH0Z0jPHq5851rus67mdMy0f8BT0FQkskFbOq56JTKbSZxtgdvcjjIqCG180TRCmK8CcnJFeKMdxqp8ikHciFUSzLNj86sF2%2FK%2BYC8rq0mn9KRiuH7cRHw%2Fh8g8RJK8%2Fnv82JKBdg407sbEIg7huhGme9szzYMtWkME3A3kU0bashNg09rKLf15RUaHNbgcd%2Bc4V6Q6VdmQWLGFg%3D%3D&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount|My Account
+2017-01-29 03:28:07|https://accounts.google.com/ManageAccount|My Account
+2017-01-29 03:28:07|https://myaccount.google.com/?authuser=0|My Account
+2017-01-29 03:28:09|https://myaccount.google.com/|My Account
+2017-01-29 03:28:12|https://mail.google.com/|Gmail
+2017-01-29 03:28:20|https://mail.google.com/mail/#inbox|Inbox (1) - mcavoys87@gmail.com - Gmail
+2017-01-29 03:28:28|https://mail.google.com/mail/#inbox/159e72c5eb387e4f|Please verify your account - mcavoys87@gmail.com - Gmail
+2017-01-29 03:28:36|https://www.google.com/url?hl=en&q=https://login.yahoo.com/account/action/verify?t%3D9CmexxS9Nl4WzzthRZ5EW1YIduFAJWPb1MpdQou7uyafbGl42XvKPUlmRpn0hRQJnPKQqiEy2ddhkoEv5.wOFgx3rw--&source=gmail&ust=1485728899835000&usg=AFQjCNGolZuG_4lyFPQWLXbC72QQ86EDWQ|Yahoo Account Settings
+2017-01-29 03:28:36|https://login.yahoo.com/account/action/verify?t=9CmexxS9Nl4WzzthRZ5EW1YIduFAJWPb1MpdQou7uyafbGl42XvKPUlmRpn0hRQJnPKQqiEy2ddhkoEv5.wOFgx3rw--|Yahoo Account Settings
+2017-01-29 03:28:36|https://login.yahoo.com/config/login?.done=https%3A%2F%2Flogin.yahoo.com%2Faccount%2Faction%2Fverify%3Ft%3D9CmexxS9Nl4WzzthRZ5EW1YIduFAJWPb1MpdQou7uyafbGl42XvKPUlmRpn0hRQJnPKQqiEy2ddhkoEv5.wOFgx3rw--%26.scrumb%3D0|Yahoo Account Settings
+2017-01-29 03:28:36|https://login.yahoo.com/account/action/verify?t=9CmexxS9Nl4WzzthRZ5EW1YIduFAJWPb1MpdQou7uyafbGl42XvKPUlmRpn0hRQJnPKQqiEy2ddhkoEv5.wOFgx3rw--&.scrumb=LB.3gE3h5AD&.scrumb2=EOIjnsekeMN|Yahoo Account Settings
+2017-01-29 03:28:46|https://login.yahoo.com/account/action/verify?.done=https://login.yahoo.com/account/action/verify|Yahoo Account Settings
+2017-01-29 03:28:46|https://login.yahoo.com/account/action/verify?template=main&scrumb=LB.3gE3h5AD|Yahoo Account Settings
+2017-01-29 03:28:51|https://login.yahoo.com/account/security|Security - Yahoo Account Settings
+2017-01-29 03:29:00|https://www.tumblr.com/settings/blog/sarahmcavoyblog|Blog Settings | Tumblr
+2017-01-29 03:29:12|https://sarahmcavoyblog.tumblr.com/|Untitled
+2017-01-29 03:30:50|https://www.tumblr.com/search?form_key=PT46OsX4zgqrytfabXMNQCF7TG8&scope=all_of_tumblr&t=sarahmcavoyblog&q=owls|owls | Tumblr
+2017-01-29 03:30:50|https://www.tumblr.com/search/owls|owls | Tumblr
+2017-01-29 03:32:25|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=mystical+bengal+tiges|
+2017-01-29 03:32:29|https://www.google.com/search?rlz=1C1CHBD_enUS729US729&espv=2&biw=1536&bih=720&q=mystical+bengal+tigers&spell=1&sa=X&ved=0ahUKEwjN6OG_8uXRAhXF1IMKHcddAQwQvwUIFygA|mystical bengal tigers - Google Search
+2017-01-29 03:32:42|https://www.google.com/search?q=mystical+bengal+tigers&rlz=1C1CHBD_enUS729US729&espv=2&biw=1536&bih=720&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiHr4zC8uXRAhVm7oMKHRXTCJcQ_AUICCgB|mystical bengal tigers - Google Search
+2017-01-29 03:33:04|https://itsdrhoo.tumblr.com/|Dr. Hoo
+2017-01-29 03:33:59|https://www.google.com/search?q=mystical+bengal+tigers&rlz=1C1CHBD_enUS729US729&espv=2&biw=1536&bih=720&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiHr4zC8uXRAhVm7oMKHRXTCJcQ_AUICCgB#imgrc=QXqF8chUS81GEM%3A|
+2017-01-29 03:34:03|https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi36rXt8uXRAhWi5YMKHQ3fDM8QjRwIBw&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F421649583836981072%2F&psig=AFQjCNGE9pE_kYIfuyXKFF_aJjHhIA2xxA&ust=1485729159932444|
+2017-01-29 03:34:07|https://www.pinterest.com/pin/421649583836981072/|Waterfalls, Blue tigers and Photos on Pinterest
+2017-01-29 03:35:53|https://www.google.com/#q=athena+with+an+owl+artistic|athena with an owl artistic - Google Search
+2017-01-29 03:35:59|https://www.google.com/search?q=athena+with+an+owl+artistic&biw=1536&bih=710&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiJl_6j8-XRAhVLxYMKHeqGBCoQ_AUIBigB|athena with an owl artistic - Google Search
+2017-01-29 03:36:28|https://www.google.com/search?q=athena+with+an+owl+artistic&biw=1536&bih=710&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiJl_6j8-XRAhVLxYMKHeqGBCoQ_AUIBigB#imgrc=cjpoEvIXuPpRxM%3A|
+2017-01-29 03:37:56|https://www.google.com/search?q=athena+with+an+owl+artistic&biw=1536&bih=710&source=lnms&sa=X&ved=0ahUKEwi_pMmm8-XRAhUi5oMKHZ0bBuAQ_AUIBygA&dpr=1.25|athena with an owl artistic - Google Search
+2017-01-29 03:38:13|https://www.google.com/search?q=athena+with+an+owl+artistic&biw=1536&bih=710&source=lnms&sa=X&ved=0ahUKEwi_pMmm8-XRAhUi5oMKHZ0bBuAQ_AUIBygA&dpr=1.25#q=Physics+notes|Physics notes - Google Search
+2017-01-29 03:38:27|https://www.google.com/aclk?sa=L&ai=DChcSEwiGrOjm8-XRAhVFtsAKHU9vAIQYABAG&sig=AOD64_2w_AP0GVogUlLeF02LAXotntIuQw&q=&ved=0ahUKEwjh1-Pm8-XRAhUryoMKHZ0EDt8Q0QwIKQ&adurl=|Amazon.com: lecture notes in physics: Books
+2017-01-29 03:38:27|http://www.amazon.com/s/?ie=UTF8&keywords=lecture+notes+in+physics&tag=googhydr-20&index=stripbooks&hvadid=41829442049&hvpos=1t3&hvnetw=g&hvrand=761583812762497984&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009233&hvtargid=kwd-1051607651&ref=pd_sl_3g52vdhu2t_b|Amazon.com: lecture notes in physics: Books
+2017-01-29 03:39:00|https://www.amazon.com/s/?ie=UTF8&keywords=lecture+notes+in+physics&tag=googhydr-20&index=stripbooks&hvadid=41829442049&hvpos=1t3&hvnetw=g&hvrand=761583812762497984&hvpone=&hvptwo=&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9009233&hvtargid=kwd-1051607651&ref=pd_sl_3g52vdhu2t_b|Amazon.com: lecture notes in physics: Books
+2017-01-29 03:39:03|https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=Physics+202&rh=n%3A283155%2Ck%3APhysics+202|Amazon.com: Physics 202: Books
+2017-01-29 03:39:10|https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dstripbooks&field-keywords=Physics+101&rh=n%3A283155%2Ck%3APhysics+101|Amazon.com: Physics 101: Books
+2017-01-29 03:39:13|https://www.amazon.com/s/ref=nb_sb_ss_c_1_11?url=search-alias%3Dstripbooks&field-keywords=physics+101&sprefix=Physics+101%2Cstripbooks%2C557&crid=LNR96LYUEZA0&rh=n%3A283155%2Ck%3Aphysics+101|Amazon.com: physics 101: Books
+2017-01-29 03:39:21|https://www.amazon.com/Physics-101-Pastel-i-ebook/dp/B00JHSD6NE/ref=sr_1_2_twi_kin_1?s=books&ie=UTF8&qid=1485643153&sr=1-2&keywords=physics+101|Amazon.com: Physics 101 eBook: Pastel i: Books
+2017-01-29 03:39:39|https://www.google.com/#q=etsy|etsy - Google Search
+2017-01-29 03:39:47|https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiYzvCP9OXRAhXGuMAKHZoBA_EYABAA&ohost=www.google.com&cid=CAESIeD2uF89Pk6dEycDRQak9Ud7Gb-F6tFmvv2MXZaeByeOHg&sig=AOD64_05vwKDIj_Em3LurXhksKrFoCufwA&q=&ved=0ahUKEwisquyP9OXRAhVs4IMKHRnyBQgQ0QwIGA&adurl=|Etsy.com | Shop for anything from creative people everywhere
+2017-01-29 03:39:47|http://5203.xg4ken.com/trk/v1?prof=404&camp=2829&affcode=kw3469&kct=google&kchid=2710552569&cid=105882515549&networkType=search&kdv=c&criteriaid=aud-266120194528:kwd-1818581752&adgroupid=16342445429&campaignid=227553629&locphy=9009233&adpos=1t1&url=https://www.etsy.com?utm_source=google&utm_medium=cpc&utm_term=etsy_exact&utm_campaign=Search_US_Google-Branded-Etsy-Brand-Exact&utm_ag=A1&utm_custom1=_kenshoo_clickid_&gclid=CjwKEAiAn7HEBRDHwNqitoWqsQcSJAADWmI2XyCVJMte1b5OUon5X1oAHxWTOBXZsyXvKVzq4INaHxoC6Pjw_wcB|Etsy.com | Shop for anything from creative people everywhere
+2017-01-29 03:39:47|https://www.etsy.com/?utm_source=google&utm_medium=cpc&utm_term=etsy_exact&utm_campaign=Search_US_Google-Branded-Etsy-Brand-Exact&utm_ag=A1&utm_custom1=277adc60-cd96-4078-a3be-fa5b572e3f0a&gclid=CjwKEAiAn7HEBRDHwNqitoWqsQcSJAADWmI2XyCVJMte1b5OUon5X1oAHxWTOBXZsyXvKVzq4INaHxoC6Pjw_wcB|Etsy.com | Shop for anything from creative people everywhere
+2017-01-29 03:40:03|https://www.etsy.com/search.php?search_query=owls&search_type=all|owls – Etsy
+2017-01-29 03:40:10|https://www.etsy.com/search/craft-supplies-and-tools?q=owls&order=most_relevant&view_type=gallery&ship_to=US&explicit=1&ref=esearch_group1|owls – Etsy
+2017-01-29 03:40:14|https://www.etsy.com/search?q=owls&order=most_relevant&view_type=gallery&ship_to=US|owls – Etsy
+2017-01-29 03:40:18|https://www.etsy.com/search/accessories?q=owls&order=most_relevant&view_type=gallery&ship_to=US&explicit=1&ref=esearch_group5|owls – Etsy
+2017-01-29 03:40:22|https://www.etsy.com/listing/268772431/personalized-owl-keychain-owl-keyring?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=owls&ref=sr_gallery_2|Personalized owl keychain owl keyring by customisedbyclaire
+2017-01-29 03:40:52|https://www.tumblr.com/explore|Trending | Tumblr
+2017-01-29 03:40:56|https://www.tumblr.com/explore/trending|
+2017-01-29 03:42:00|https://www.google.com/#q=clavin+and+hobbes|clavin and hobbes - Google Search
+2017-01-29 03:42:03|https://www.google.com/#q=calvin+and+hobbes|calvin and hobbes - Google Search
+2017-01-29 03:42:11|http://www.gocomics.com/calvinandhobbes/|Calvin and Hobbes by Bill Watterson | Read Comic Strips at GoComics.com
+2017-01-29 03:42:40|http://www.gocomics.com/calvinandhobbes/2017/01/27|Calvin and Hobbes by Bill Watterson for Jan 27, 2017 | Read Comic Strips at GoComics.com
+2017-01-29 03:43:00|http://www.gocomics.com/calvinandhobbes/2017/01/26|Calvin and Hobbes by Bill Watterson for Jan 26, 2017 | Read Comic Strips at GoComics.com
+2017-01-29 03:43:28|http://www.gocomics.com/calvinandhobbes/2017/01/25|Calvin and Hobbes by Bill Watterson for Jan 25, 2017 | Read Comic Strips at GoComics.com
+2017-01-29 03:43:58|http://www.gocomics.com/calvinandhobbes/2017/01/24|Calvin and Hobbes by Bill Watterson for Jan 24, 2017 | Read Comic Strips at GoComics.com
+2017-01-31 00:06:46|https://www.youtube.com/watch?v=8-sLhsSofnU&list=PL35FE5C4B157509C9&index=15|Game Theory: Real Tips for SURVIVING a Zombie Apocalypse (7 Days to Die) - YouTube
+2017-01-31 00:21:02|https://www.youtube.com/watch?v=QxckzCO7VI8&index=16&list=PL35FE5C4B157509C9|Game Theory: The TRUTH About Minecraft's World! - YouTube
+2017-01-31 00:21:02|https://www.youtube.com/watch?v=PUBtw9peahY&index=17&list=PL35FE5C4B157509C9|Game Theory: Would Super Mario Win the Olympics? - YouTube
+2017-01-31 00:22:12|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=Logan+movie|
+2017-01-31 00:24:15|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=Logan+trailer|
+2017-01-31 00:24:18|https://www.youtube.com/watch?v=Div0iP65aZo|Logan | Official Trailer [HD] | 20th Century FOX - YouTube
+2017-01-31 03:51:10|http://www.gmail.com/|Gmail
+2017-01-31 03:51:10|https://www.gmail.com/|Gmail
+2017-01-31 03:51:19|https://www.youtube.com/watch?v=Ln342caKBHs|Game Theory: Fallout Bottle Caps are Worth HOW MUCH?!? - YouTube
+2017-01-31 03:51:59|https://www.google.com/contacts/u/0/?cpoi=g|Google Contacts (redirecting)
+2017-01-31 03:51:59|https://contacts.google.com/preview|
+2017-01-31 03:52:07|https://contacts.google.com/|https://contacts.google.com
+2017-02-01 00:08:27|https://www.youtube.com/watch?v=X31K6jammH0|Game Theory: Red vs Blue, The SECRET Color Strategy - YouTube
+2017-02-01 00:08:27|https://www.youtube.com/watch?v=qmLvWL3_mOA|Game Theory: EXPOSING the Real Gangs of Assassin's Creed Syndicate - YouTube
+2017-02-01 00:08:50|http://www.owlpages.com/download/Owl_Emergency_Care.pdf|Owl_Emergency_Care.pdf
+2017-02-01 00:09:01|https://www.google.com/#q=how+to+care+for+an+owl+pdg|Google
+2017-02-01 00:09:06|http://www.owlpages.com/download/Owl_Keeping.pdf|Owl_Keeping.pdf
+2017-02-01 00:10:30|file:///C:/Users/Sarah%20M/Documents/New%20Pet%20Care/Owl_Emergency_Care.pdf|Owl_Emergency_Care.pdf
+2017-02-01 00:12:23|https://www.google.com/#q=snowy+owl+care+pdf|Google
+2017-02-01 00:14:27|https://www.google.com/#q=snowy+owl+wingspan+xls|Google
+2017-02-01 00:14:52|http://dnr2.maryland.gov/wildlife/Documents/Snowy_Owl.pdf|Snowy_Owl.pdf
+2017-02-01 00:20:57|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=Owl+wingspans|
+2017-02-01 00:21:04|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=Owl+wingspans+xls|Owl wingspans xls - Google Search
+2017-02-01 00:25:43|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=snowy+owl+wingspans|snowy owl wingspans - Google Search
+2017-02-01 00:25:50|http://www.defenders.org/snowy-owl/basic-facts|Snowy Owl | Basic Facts About Snowy Owls | Defenders of Wildlife
+2017-02-01 00:26:02|https://secure.defenders.org/site/SPageServer?pagename=wagc_snowyowl&s_src=3WEW1700XXXXX&s_subsrc=013117_adopt_block_snowy-owl/basic-facts|Adopt a Snowy Owl - Wildlife Adoption and Gift Center
+2017-02-01 00:26:20|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=sea+turtles|
+2017-02-01 00:26:53|https://www.google.com/imgres?imgurl=http://www.nwf.org/~/media/Content/Animals/Reptiles%2520and%2520Amphibians/Turtles%2520and%2520Tortoises/219x219/GreenSeaTurtle_DanHershman_219x219.ashx&imgrefurl=http://www.nwf.org/wildlife/wildlife-library/amphibians-reptiles-and-fish/sea-turtles.aspx&h=219&w=219&tbnid=ZdSx8CLy7WkavM:&vet=1&tbnh=174&tbnw=174&docid=XSh4_oodpdQLHM&itg=1&usg=__32lCmVMyiq8ZUZ8EL35XK-MM0jo=&sa=X&ved=0ahUKEwimnIzAju3RAhVBKCYKHa4pAtIQ_B0IeDAM&ei=2uSQWKbHDsHQmAGu04iQDQ|Google Image Result for http://www.nwf.org/~/media/Content/Animals/Reptiles%20and%20Amphibians/Turtles%20and%20Tortoises/219x219/GreenSeaTurtle_DanHershman_219x219.ashx
+2017-02-01 00:32:06|https://www.youtube.com/watch?v=VoinS21NcPY|Game Theory: Theorists are KILLERS (Life is Strange) - YouTube
+2017-02-01 00:45:28|https://www.youtube.com/watch?v=zi4i6e99Z1k|Game Theory: Until Dawn's TRAGIC Hero - YouTube
+2017-02-01 00:45:28|https://www.youtube.com/watch?v=Z5onlG_8J18|Game Theory: Handsome Jack, Monster or Misunderstood? (Borderlands 2/The Pre-Sequel!) - YouTube
+2017-02-01 00:53:32|https://www.google.com/#q=trippy+owl+pictures|trippy owl pictures - Google Search
+2017-02-01 00:55:20|https://www.google.com/search?q=trippy+owl+pictures&biw=1536&bih=710&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBztPKlO3RAhWKZiYKHeJICFQQ_AUIBigB|trippy owl pictures - Google Search
+2017-02-01 00:55:24|https://www.google.com/search?q=trippy+owl+pictures&biw=1536&bih=710&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBztPKlO3RAhWKZiYKHeJICFQQ_AUIBigB#imgrc=efEq-Oshp8ke4M%3A|
+2017-02-01 00:56:35|https://www.google.com/search?q=trippy+owl+pictures&biw=1536&bih=710&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBztPKlO3RAhWKZiYKHeJICFQQ_AUIBigB#tbm=isch&q=Skyrim+meme+poster|Skyrim meme poster - Google Search
+2017-02-01 00:56:40|https://www.google.com/search?q=trippy+owl+pictures&biw=1536&bih=710&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBztPKlO3RAhWKZiYKHeJICFQQ_AUIBigB#tbm=isch&q=Skyrim+meme+poster&imgrc=mOBGT7IO7vCDUM%3A|
+2017-02-01 00:56:59|https://www.google.com/search?q=trippy+owl+pictures&biw=1536&bih=710&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBztPKlO3RAhWKZiYKHeJICFQQ_AUIBigB#tbm=isch&q=Skyrim+meme+poster&imgrc=72W4aSOpl-XiQM%3A|
+2017-02-01 00:57:06|https://www.google.com/search?q=trippy+owl+pictures&biw=1536&bih=710&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBztPKlO3RAhWKZiYKHeJICFQQ_AUIBigB#tbm=isch&q=Skyrim+meme+poster&imgrc=HTHKbl5OtB48DM%3A|
+2017-02-01 00:57:15|https://www.google.com/search?q=trippy+owl+pictures&biw=1536&bih=710&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBztPKlO3RAhWKZiYKHeJICFQQ_AUIBigB#tbm=isch&q=Skyrim+meme+poster&imgrc=_|
+2017-02-01 00:57:26|https://www.google.com/search?q=trippy+owl+pictures&biw=1536&bih=710&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBztPKlO3RAhWKZiYKHeJICFQQ_AUIBigB#tbm=isch&q=Skyrim+meme+poster&imgrc=unuMWYkw1RxrDM%3A|
+2017-02-01 21:58:47|https://www.google.com/#q=pidgin|pidgin - Google Search
+2017-02-01 21:58:48|https://www.google.com/url?sa=f&rct=j&url=https://www.pidgin.im/&q=&esrc=s&ei=xROSWIK0EMWSmQHj_JPACA&usg=AFQjCNHNSe26vXTGtTiwsLCEsRrhv7xvjA|
+2017-02-01 21:58:48|https://www.pidgin.im/|
+2017-02-01 21:59:16|http://sourceforge.net/projects/pidgin/files/Pidgin/2.11.0/pidgin-2.11.0.exe/download?accel_key=62%3A1485968327%3Ahttps%253A//www.pidgin.im/%3Aff296d95%244400ae35fb0e6cb1cabd9f9c879ebf0d9c178170&click_id=b27b7e92-e89f-11e6-bb41-0200ac1d1d90&source=accel|Download Pidgin IM from SourceForge.net
+2017-02-01 21:59:16|https://sourceforge.net/projects/pidgin/files/Pidgin/2.11.0/pidgin-2.11.0.exe/download?accel_key=62%3A1485968327%3Ahttps%253A//www.pidgin.im/%3Aff296d95%244400ae35fb0e6cb1cabd9f9c879ebf0d9c178170&click_id=b27b7e92-e89f-11e6-bb41-0200ac1d1d90&source=accel|Download Pidgin IM from SourceForge.net
+2017-02-01 22:05:25|https://sourceforge.net/projects/pidgin/files/latest/download?source=typ_redirect|Download Pidgin IM from SourceForge.net
+2017-02-01 22:06:12|https://sourceforge.net/projects/pidgin/postdownload?source=dlp|Find out more about Pidgin IM | SourceForge.net
+2017-02-01 22:06:34|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=how+to+use+pidgin+im|
+2017-02-01 22:06:52|https://sourceforge.net/projects/pidgin/?source=typ_redirect|Pidgin IM download | SourceForge.net
+2017-02-01 22:07:06|https://developer.pidgin.im/wiki/Using%20Pidgin|Using Pidgin – Pidgin
+2017-02-01 22:07:16|https://developer.pidgin.im/wiki/Using%20Pidgin#HowdoIregisterforanewaccount|
+2017-02-01 22:12:58|https://www.facebook.com/sarah.mcavoy.9638|Sarah Mcavoy
+2017-02-01 22:13:11|https://www.facebook.com/settings|General Account Settings
+2017-02-01 22:13:42|https://www.facebook.com/settings?tab=account&section=password&view|
+2017-02-01 22:13:54|https://www.facebook.com/settings?tab=account&view|
+2017-02-01 22:16:26|https://www.facebook.com/settings?tab=account&section=username&view|
+2017-02-01 22:17:26|https://www.facebook.com/settings?tab=account&edited=username|(1) General Account Settings
+2017-02-01 22:21:19|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8|Google
+2017-02-01 22:21:33|https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiF0627tO_RAhUB5iYKHdOdCHQQFggaMAA&url=http%3A%2F%2Faskubuntu.com%2Fquestions%2F714573%2Fhow-to-grant-application-access-for-facebook-account&usg=AFQjCNEkyFGliFK-BWxsbCHlF-WzEUNMvQ&sig2=dQAVgpLSrDX0iwsucVLzKA&bvm=bv.145822982,d.eWE|
+2017-02-01 22:21:33|http://askubuntu.com/questions/714573/how-to-grant-application-access-for-facebook-account|empathy - How to grant application access for Facebook account - Ask Ubuntu
+2017-02-01 22:21:39|https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwiF0627tO_RAhUB5iYKHdOdCHQQFgghMAE&url=https%3A%2F%2Fpidgin.im%2Fpipermail%2Fsupport%2F2010-February%2F020326.html&usg=AFQjCNFTKC9S6KI6jjpaTXZkYsXR4TKcWA&sig2=vnu4A50wr4Asdjcuxwm5XQ&bvm=bv.145822982,d.eWE|
+2017-02-01 22:21:48|https://pidgin.im/pipermail/support/2010-February/020326.html|Facebook XMPP with Pidgin
+2017-02-01 22:21:58|https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1CHBD_enUS729US729&ion=1&espv=2&ie=UTF-8#q=how+to+get+facebook+xmpp|Google
+2017-02-01 22:22:25|https://myaccount.google.com/?utm_source=OGB|My Account
+2017-02-01 22:22:45|https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwik0JDctO_RAhVHTA0KHavnAqsYABAA&ohost=www.google.com&cid=CAESIeD2DvBIJUWkDeap1XpoYpa9CmPDHsmNcdUzbUri0RcfQA&sig=AOD64_3cJbxDokwR3unh_P-SKqYqgGqbuQ&q=&ved=0ahUKEwiE54rctO_RAhVDLyYKHfuxCekQ0QwIGA&adurl=|Google Hangouts – Video Conferencing & Meetings for Business
+2017-02-01 22:22:45|http://clickserve.dartsearch.net/link/click?lid=43700015211414201&ds_s_kwgid=58700001981446618&&ds_e_adid=156893041869&ds_e_matchtype=search&ds_e_device=c&ds_e_network=g&&ds_url_v=2&ds_dest_url=https://gsuite.google.com/intl/en_us/products/hangouts/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-na&utm_content=text-ad-none-any-DEV_c-CRE_156893041869-ADGP_[*Adgroup*]-KWID_[*TrackerID*]&utm_term=KW_google%20talk-ST_[*searchterm*]&gclid=CjwKEAiAq8bEBRDuuOuyspf5oyMSJAAcsEyWMUPQ2IZdfi3N7O_lj_KE5OPu_qLqo4dE7xzmf3QokBoCFNPw_wcB|Google Hangouts – Video Conferencing & Meetings for Business
+2017-02-01 22:22:45|https://clickserve.dartsearch.net/link/click?lid=43700015211414201&ds_s_kwgid=58700001981446618&&ds_e_adid=156893041869&ds_e_matchtype=search&ds_e_device=c&ds_e_network=g&&ds_url_v=2&ds_dest_url=https://gsuite.google.com/intl/en_us/products/hangouts/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-na&utm_content=text-ad-none-any-DEV_c-CRE_156893041869-ADGP_[*Adgroup*]-KWID_[*TrackerID*]&utm_term=KW_google%20talk-ST_[*searchterm*]&gclid=CjwKEAiAq8bEBRDuuOuyspf5oyMSJAAcsEyWMUPQ2IZdfi3N7O_lj_KE5OPu_qLqo4dE7xzmf3QokBoCFNPw_wcB|Google Hangouts – Video Conferencing & Meetings for Business
+2017-02-01 22:22:45|https://ad.doubleclick.net/ddm/clk/286777151;113668888;c;u=ds&sv1=15211414201&sv2=2971939527614002&sv3=4217202927461798023;%3fhttps://gsuite.google.com/intl/en_us/products/hangouts/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-na&utm_content=text-ad-none-any-DEV_c-CRE_156893041869-ADGP_Google+Talk+-+Exact-KWID_43700015211414201&utm_term=KW_google%20talk-ST_google+talk&gclid=CjwKEAiAq8bEBRDuuOuyspf5oyMSJAAcsEyWMUPQ2IZdfi3N7O_lj_KE5OPu_qLqo4dE7xzmf3QokBoCFNPw_wcB&gclsrc=aw.ds|Google Hangouts – Video Conferencing & Meetings for Business
+2017-02-01 22:22:45|https://gsuite.google.com/intl/en_us/products/hangouts/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-na&utm_content=text-ad-none-any-DEV_c-CRE_156893041869-ADGP_Google+Talk+-+Exact-KWID_43700015211414201&utm_term=KW_google%20talk-ST_google+talk&gclid=CjwKEAiAq8bEBRDuuOuyspf5oyMSJAAcsEyWMUPQ2IZdfi3N7O_lj_KE5OPu_qLqo4dE7xzmf3QokBoCFNPw_wcB&gclsrc=aw.ds|Google Hangouts – Video Conferencing & Meetings for Business
+2017-02-01 22:22:49|https://www.google.com/a/signup/?hl=en&source=gafb-hangouts-canvas-&ga_region=noram&ga_country=us&ga_lang=en&_ga=1.93658072.433026955.1485969766&__utma=183643312.433026955.1485969766.1485969766.1485969766.1&__utmb=183643312.1.10.1485969766&__utmc=183643312&__utmx=-&__utmz=183643312.1485969766.1.1.utmcsr=google|utmgclid=CjwKEAiAq8bEBRDuuOuyspf5oyMSJAAcsEyWMUPQ2IZdfi3N7O_lj_KE5OPu_qLqo4dE7xzmf3QokBoCFNPw_wcB|utmgclsrc=aw.ds|utmccn=na-US-all-en-dr-bkws-all-all-trial-e-na|utmcmd=cpc|utmctr=KW_google%20talk-ST_google%20talk|utmcct=text-ad-none-any-DEV_c-CRE_156893041869-ADGP_Google%20Talk%20-%20Exact-KWID_43700015211414201&__utmv=-&__utmk=134141966|Sign up for G Suite
+2017-02-01 22:22:49|https://www.google.com/a/signup/?hl=en&source=gafb-hangouts-canvas-&ga_region=noram&ga_country=us&ga_lang=en&_ga=1.93658072.433026955.1485969766&__utma=183643312.433026955.1485969766.1485969766.1485969766.1&__utmb=183643312.1.10.1485969766&__utmc=183643312&__utmx=-&__utmz=183643312.1485969766.1.1.utmcsr=google|utmgclid=CjwKEAiAq8bEBRDuuOuyspf5oyMSJAAcsEyWMUPQ2IZdfi3N7O_lj_KE5OPu_qLqo4dE7xzmf3QokBoCFNPw_wcB|utmgclsrc=aw.ds|utmccn=na-US-all-en-dr-bkws-all-all-trial-e-na|utmcmd=cpc|utmctr=KW_google%20talk-ST_google%20talk|utmcct=text-ad-none-any-DEV_c-CRE_156893041869-ADGP_Google%20Talk%20-%20Exact-KWID_43700015211414201&__utmv=-&__utmk=134141966#0|
+2017-02-01 22:23:27|https://gsuite.google.com/intl/en_us/products/hangouts/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-na&utm_content=text-ad-none-any-DEV_c-CRE_156893041869-ADGP_Google%20Talk%20-%20Exact-KWID_43700015211414201&utm_term=KW_google%20talk-ST_google%20talk&gclid=CjwKEAiAq8bEBRDuuOuyspf5oyMSJAAcsEyWMUPQ2IZdfi3N7O_lj_KE5OPu_qLqo4dE7xzmf3QokBoCFNPw_wcB&gclsrc=aw.ds|
+2017-02-01 22:23:28|https://www.google.com/#q=google+talk|Google
+2017-02-01 22:23:50|https://support.google.com/talk/?hl=en|Talk Help
+2017-02-01 22:23:56|https://www.google.com/talk/index.html|Google Hangouts
+2017-02-01 22:23:56|https://www.google.com/hangouts/|Google Hangouts
+2017-02-01 22:23:56|https://hangouts.google.com/|Google Hangouts
+2017-02-02 00:26:01|https://www.youtube.com/watch?v=x8wErKYTS1A&index=22&list=PL35FE5C4B157509C9|Game Theory: Solving Raticate's "DEATH" (Pokemon Red and Blue) - YouTube
+2017-02-02 00:42:48|https://www.youtube.com/watch?v=tPpBlDaKM_o&list=PL35FE5C4B157509C9&index=23|Game Theory: Leave PewDiePie ALONE! - YouTube
+2017-02-02 00:57:39|https://www.youtube.com/watch?v=r7bcb2dkhIw&index=24&list=PL35FE5C4B157509C9|Game Theory: Minecraft's Ending, DECODED! - YouTube
+2017-02-02 00:58:43|https://www.youtube.com/watch?v=s8St9oOnkGU&list=PL35FE5C4B157509C9&index=25|Game Theory: Why I Gave the Pope UNDERTALE! - YouTube
+2017-02-02 00:58:43|https://www.youtube.com/watch?v=MB4qFNmH07M&index=21&list=PL35FE5C4B157509C9|Game Theory: Luigi's SECRET Identity (Super Paper Mario) - YouTube
+2017-02-03 02:29:50|https://mail.google.com/mail/u/0/#inbox?compose=15a00bbbae3ab77e|
+2017-02-03 02:29:54|https://mail.google.com/mail/u/0/#inbox?compose=15a00bbc9ede7a1c|
+2017-02-03 02:30:11|https://mail.google.com/mail/u/0/#inbox?compose=15a00bc0c8818e04|
+2017-02-03 02:38:01|https://www.youtube.com/watch?v=8KuH0-994Hk&list=PL35FE5C4B157509C9&index=99|Game Theory: How Much is Minecraft Diamond Armor Worth? - YouTube
+2017-02-03 02:52:05|https://www.youtube.com/watch?v=eq8AN9v1BFQ&list=PL35FE5C4B157509C9&index=100|Game Theory: Is Comic Con 2014 REALLY Worth the Wait? (SDCC 2014) - YouTube
+2017-02-03 02:52:05|https://www.youtube.com/watch?v=DSwp37yQuz4&index=101&list=PL35FE5C4B157509C9|Game Theory: How Real Can Video Games Get? - YouTube
+2017-02-03 02:53:21|https://mail.google.com/mail/u/0/#inbox?compose=new|
+2017-02-03 02:53:35|https://mail.google.com/mail/u/0/#inbox?compose=15a00d179a36e286|
+2017-02-03 02:54:02|https://mail.google.com/mail/u/0/#inbox?compose=15a00d1e25dfc7ce|
+2017-02-03 02:54:07|https://mail.google.com/mail/u/0/#inbox?compose=15a00d1f62010efc|
+2017-02-03 02:54:21|https://mail.google.com/mail/u/0/#inbox?compose=15a00d22f7e9c2c0|
+2017-02-03 02:55:46|https://mail.google.com/mail/u/0/#inbox?compose=15a00d3792c9cab9|
+2017-02-03 02:55:52|https://mail.google.com/mail/u/0/#inbox?compose=15a00d393dda230e|
+2017-02-03 02:55:56|https://mail.google.com/mail/u/0/#inbox?compose=15a00d3a0ddb851a|
+2017-02-03 02:56:04|https://mail.google.com/mail/u/0/#inbox?compose=15a00d3be48f2d83|
+2017-02-03 02:56:23|https://mail.google.com/mail/u/0/#inbox?compose=15a00d40854392e9|
+2017-02-03 02:56:29|https://mail.google.com/mail/u/0/#inbox?compose=15a00d422420cbc0|
+2017-02-03 02:56:40|https://mail.google.com/mail/u/0/#inbox?compose=15a00d44dea08b17|
+2017-02-03 02:56:58|https://mail.google.com/mail/u/0/#inbox?compose=15a00d493265a924|
+2017-02-03 02:57:06|https://mail.google.com/mail/u/0/#inbox?compose=15a00d4b305a8e4b|
+2017-02-03 02:57:14|http://www.youtube.com/|YouTube
+2017-02-03 02:57:27|https://www.youtube.com/|YouTube
+2017-02-03 02:57:30|https://www.youtube.com/results?search_query=game+theory|game theory - YouTube
+2017-02-03 02:57:30|https://www.youtube.com/user/MatthewPatrick13|The Game Theorists - YouTube
+2017-02-03 02:59:35|https://www.youtube.com/playlist?list=PL35FE5C4B157509C9|Game Theory: The Complete Series - YouTube
+2017-02-03 03:07:40|https://www.google.com/#q=gmail|gmail - Google Search
+2017-02-03 03:13:13|https://www.youtube.com/watch?v=2OaTwR8vXcc&index=78&list=PL35FE5C4B157509C9|Game Theory: Toad's DEADLY Secret (Super Mario Bros.) - YouTube
+2017-02-03 03:21:37|https://www.youtube.com/watch?v=i1TSpfPFNlE&list=PL35FE5C4B157509C9&index=84|Game Theory: Why the Official Zelda Timeline is Wrong - YouTube
+2017-02-03 03:23:40|https://mail.google.com/mail/|Gmail
+2017-02-03 03:23:40|https://www.google.com/gmail/|Gmail
+2017-02-03 03:23:40|https://mail.google.com/mail/u/0/|Gmail
+2017-02-03 03:23:41|https://mail.google.com/mail/u/0/#inbox|Inbox (2) - mcavoys87@gmail.com - Gmail
+2017-02-03 03:23:43|https://mail.google.com/mail/u/0/#inbox/15a00bc1020b358d|(no subject) - mcavoys87@gmail.com - Gmail
+2017-02-03 03:23:58|https://www.google.com/|Google
+2017-02-03 03:24:05|https://www.google.com/#q=yahoo+messenger|
+2017-02-03 03:24:05|https://www.google.com/url?sa=f&rct=j&url=https://messenger.yahoo.com/&q=&esrc=s&ei=gLGTWPqPOMmlmwHlnKWYCQ&usg=AFQjCNGqqA6bzFEYpXrcIXnOYVK67NOnQQ|
+2017-02-03 03:24:06|https://messenger.yahoo.com/|
+2017-02-03 03:24:58|http://login.yahoo.com/config/login?logout=1&.direct=1&.done=https%3A%2F%2Fmessenger.yahoo.com%3Fstatus%3D|Logging out...
+2017-02-03 03:24:58|https://login.yahoo.com/config/login?logout=1&.direct=1&.done=https%3A%2F%2Fmessenger.yahoo.com%3Fstatus%3D|Logging out...
+2017-02-03 03:24:58|https://www.tumblr.com/logout?crumb=UFJXUTU1WlhET05OWE4yS1lOQVdLT1lRTFF8MTQ4NjA3NDI5NXxuNnVTVVpBSm5oSg--&callback=https%3a//messenger.yahoo.com%3fstatus=|Logging out...
+2017-02-03 03:24:58|https://messenger.yahoo.com/?status=|Yahoo Messenger
+2017-02-03 03:33:01|https://www.youtube.com/watch?v=EUOMDODEBk0&list=PL35FE5C4B157509C9&index=85|Game Theory: Surviving the Assassin's Creed Leap of Faith - YouTube
+2017-02-03 03:42:34|http://www.facebook.com/|(1) Facebook
+2017-02-03 03:42:35|https://www.facebook.com/|(1) Facebook
+2017-02-03 03:48:21|https://www.youtube.com/watch?v=LplSnXQMf38&index=87&list=PL35FE5C4B157509C9|Game Theory: BEWARE Link's Hookshot in Legend of Zelda! - YouTube
+2017-02-03 03:48:21|https://www.youtube.com/watch?v=5n5zZDsUffs&list=PL35FE5C4B157509C9&index=91|Game Theory: Which Link Rules them All? (Legend of Zelda: Hyrule Warriors) - YouTube
+2017-02-03 03:49:18|http://www.tumblr.com/|Sign up | Tumblr
+2017-02-03 03:49:18|https://www.tumblr.com/|Sign up | Tumblr
+2017-02-03 03:49:24|https://www.tumblr.com/login|Log in | Tumblr
+2017-02-03 03:49:39|https://www.tumblr.com/openid/connect|Yahoo - login
+2017-02-03 03:49:39|https://api.login.yahoo.com/oauth2/request_auth?login_hint=McavoyS87%40gmail.com&response_type=code&redirect_uri=https%3A%2F%2Fwww.tumblr.com%2Fopenid%2Fconnect&client_id=dj0yJmk9eDczSEtQeDc5WG9pJmQ9WVdrOVJUSm9aVmxVTjJVbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD01Yg--&nonce=b8b71a1ce1ba7af61b1b306960797f2e&state=207076c8117b5c52bf15d7348d6b35c5&scope=openid+sdpp-w#_=_|Yahoo - login
+2017-02-03 03:49:39|https://login.yahoo.com/config/login?.done=https%3A%2F%2Fapi.login.yahoo.com%2Foauth2%2Frequest_auth%3Fresponse_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.tumblr.com%252Fopenid%252Fconnect%26client_id%3Ddj0yJmk9eDczSEtQeDc5WG9pJmQ9WVdrOVJUSm9aVmxVTjJVbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD01Yg--%26nonce%3Db8b71a1ce1ba7af61b1b306960797f2e%26state%3D207076c8117b5c52bf15d7348d6b35c5%26scope%3Dopenid%2520sdpp-w%26.scrumb%3D0&.src=tumblr&.pd=c%3DRg.cJXHJGc1lYEe0TWrQSBHXYGdU8eYc4Q5q%26ockey%3Ddj0yJmk9eDczSEtQeDc5WG9pJmQ9WVdrOVJUSm9aVmxVTjJVbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD01Yg--&.crumb=%2FpM8hHVY2Ra&redirect_uri=https%3A%2F%2Fwww.tumblr.com%2Fopenid%2Fconnect&state=207076c8117b5c52bf15d7348d6b35c5&login_hint=McavoyS87%40gmail.com#_=_|Yahoo - login
+2017-02-03 03:49:59|https://www.tumblr.com/dashboard|Tumblr
+2017-02-03 03:49:59|https://login.yahoo.com/account/comm-channel/refresh?.done=https%3A%2F%2Fapi.login.yahoo.com%2Foauth2%2Frequest_auth%3Fresponse_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.tumblr.com%252Fopenid%252Fconnect%26client_id%3Ddj0yJmk9eDczSEtQeDc5WG9pJmQ9WVdrOVJUSm9aVmxVTjJVbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD01Yg--%26nonce%3Db8b71a1ce1ba7af61b1b306960797f2e%26state%3D207076c8117b5c52bf15d7348d6b35c5%26scope%3Dopenid%2520sdpp-w%26.scrumb%3Dt4EyGCXyTdc&.scrumb2=OUXUT2z%2FjIp&.src=tumblr&.intl=us&tn=arinfo_mobile&.scrumb=t4EyGCXyTdc&.lang=&.asdk_embedded=&.appsrc=&.appsrcv=&.srcv=&.smc=&context=spreg_cc&display=login&sts=1486075794&sig=5ceac251|Tumblr
+2017-02-03 03:49:59|https://api.login.yahoo.com/oauth2/request_auth?response_type=code&redirect_uri=https%3A%2F%2Fwww.tumblr.com%2Fopenid%2Fconnect&client_id=dj0yJmk9eDczSEtQeDc5WG9pJmQ9WVdrOVJUSm9aVmxVTjJVbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD01Yg--&nonce=b8b71a1ce1ba7af61b1b306960797f2e&state=207076c8117b5c52bf15d7348d6b35c5&scope=openid%20sdpp-w&.scrumb=t4EyGCXyTdc|Tumblr
+2017-02-03 03:49:59|https://www.tumblr.com/openid/connect?code=dsupy7w&state=207076c8117b5c52bf15d7348d6b35c5|Tumblr
+2017-02-03 03:50:31|https://www.flickr.com/photos/131146257@N07/32454215321|Grand duc d'Amérique / Great Horned Owl | Domaine de Maizere… | Flickr
+2017-02-03 03:50:41|https://www.flickr.com/photos/131146257@N07/32443754252/in/photostream/|Mésange à tête noire / Black-capped Chickadee | Saint-August… | Flickr
+2017-02-03 03:50:43|https://www.flickr.com/photos/131146257@N07/32443981846/in/photostream/|Chouette épervière / Northern Hawk Owl | Saint-Augustin-de… | Flickr
+2017-02-03 03:50:45|https://www.flickr.com/photos/131146257@N07/31585900474/in/photostream/|Plongeon huard / Common Loon | Lac Saint-Charles (Québec) - … | Flickr
+2017-02-03 03:50:52|https://www.flickr.com/photos/131146257@N07/32224685371/in/photostream/|Alouette hausse-col / Horned Lark | Saint-Lambert-de-Lauzon … | Flickr
+2017-02-03 03:50:53|https://www.flickr.com/photos/131146257@N07/32224685871/in/photostream/|
+2017-02-03 03:51:07|https://www.flickr.com/photos/maxhabich/6266841156/in/photolist-axMcxs-6QQrUQ-JpA38W-JHtziP-JpzWRo-68J8MR-JHvw5a-q82qSN-4QEEsg-JQjJBt-HU22Qq-734RUz-dvSrxs-ar7hdX-HU3QzA-Jpyhm9-HU1KCz-wR6C8o-JHvDek-JHvvhD-JFgPuw-dioQCc-dzqGGY-dEZnxM-JHtA5P-JMnoMm-6ZnwQA-abHeQi-o8bXmk-JFgH9f-JHtyg8-JHvv8F-nE1EV8-oUaP9W-JpzV8d-JMkqXY-cSVjDb-dNU9tc-JQmCAX-JQmEiK-HU23a3-6ftqFv-g1xmqm-HU44jo-da6RyK-9RnXkp-nsfCXN-nUCUXZ-aqwFx6-bb6Jf8|It's in her eyes | Camera: Canon EOS 7D Lens: Canon EF 50mm … | Flickr
+2017-02-03 03:51:21|https://www.flickr.com/photos/142118881@N02/27833886880/in/photolist-JpzWRo-68J8MR-JHvw5a-q82qSN-4QEEsg-JQjJBt-HU22Qq-734RUz-dvSrxs-ar7hdX-HU3QzA-Jpyhm9-HU1KCz-wR6C8o-JHvDek-JHvvhD-JFgPuw-dioQCc-dzqGGY-dEZnxM-JHtA5P-JMnoMm-6ZnwQA-abHeQi-o8bXmk-JFgH9f-JHtyg8-JHvv8F-nE1EV8-oUaP9W-JpzV8d-JMkqXY-cSVjDb-dNU9tc-JQmCAX-JQmEiK-HU23a3-6ftqFv-g1xmqm-HU44jo-da6RyK-9RnXkp-nsfCXN-nUCUXZ-aqwFx6-bb6Jf8-sVhN7-6ehqHA-nFWNDb-a5uZcg|Awsome | siannacunningham | Flickr
+2017-02-03 03:51:27|https://www.flickr.com/photos/142118881@N02/28036340661/in/photolist-JHtziP-JpzWRo-68J8MR-JHvw5a-q82qSN-4QEEsg-JQjJBt-HU22Qq-734RUz-dvSrxs-ar7hdX-HU3QzA-Jpyhm9-HU1KCz-wR6C8o-JHvDek-JHvvhD-JFgPuw-dioQCc-dzqGGY-dEZnxM-JHtA5P-JMnoMm-6ZnwQA-abHeQi-o8bXmk-JFgH9f-JHtyg8-JHvv8F-nE1EV8-oUaP9W-JpzV8d-JMkqXY-cSVjDb-dNU9tc-JQmCAX-JQmEiK-HU23a3-6ftqFv-g1xmqm-HU44jo-da6RyK-9RnXkp-nsfCXN-nUCUXZ-aqwFx6-bb6Jf8-sVhN7-6ehqHA-nFWNDb|Awsome | siannacunningham | Flickr
+2017-02-03 03:51:56|https://www.flickr.com/photos/95843423@N03/9851468684/in/photolist-g1xmqm-HU44jo-da6RyK-9RnXkp-nsfCXN-nUCUXZ-aqwFx6-bb6Jf8-sVhN7-6ehqHA-nFWNDb-a5uZcg-KamV4-kJKJgh-Jpy1Us-8j985f-nL8pek-5jUHKL-boyZYC-eawmiZ-JMnqDY-6GuhSc-yEs5b-776D8w-GoiT9-o8bXfP-nB9bo2-EXinfj-6XwMZz-ak4ymR-sbF7nm-oSaBGy-pWJ3zh-JQjPqB-nDNGNV-7cAowQ-7RAM9a-nbr9kE-5b7H3o-4KfzJk-JHvuug-678fNr-4FBJzn-5mTra3-rP77Lt-an8Y3U-7GNzqL-53sQUV-bVy9JN-nJaJPc|awsome Duck | Muhammad Jahangeer | Flickr
+2017-02-03 03:52:38|https://www.flickr.com/photos/bocavermelha/488435693/in/photolist-KamV4-kJKJgh-Jpy1Us-8j985f-nL8pek-5jUHKL-boyZYC-eawmiZ-JMnqDY-6GuhSc-yEs5b-776D8w-GoiT9-o8bXfP-nB9bo2-EXinfj-6XwMZz-ak4ymR-sbF7nm-oSaBGy-pWJ3zh-JQjPqB-nDNGNV-7cAowQ-7RAM9a-nbr9kE-5b7H3o-4KfzJk-JHvuug-678fNr-4FBJzn-5mTra3-rP77Lt-an8Y3U-7GNzqL-53sQUV-bVy9JN-nJaJPc-bdurE-4iA4cs-dKXX2v-egAP8e-bxu9FH-3qecYU-6Usxt5-xMphL-6f1P9R-6CXzwp-5o8ymU-8mvBm6|♫ YO Yo yo, there's no place like a green penthouse... so … | Flickr
+2017-02-03 03:52:42|https://www.flickr.com/search/?text=awsome%20animals|♫ YO Yo yo, there's no place like a green penthouse... so … | Flickr

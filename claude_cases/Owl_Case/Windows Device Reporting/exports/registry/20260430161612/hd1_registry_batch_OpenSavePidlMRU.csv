@@ -1,0 +1,412 @@
+﻿Extension,BatchKeyPath,ValueName,BatchValueName,MruPosition,AbsolutePath,OpenedOn,Details
+*,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,8,8,0,This PC\Desktop\what is this.html,2017-02-02 22:52:25.4202722,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Desktop
+
+
+Short name: what is this.html
+
+Type: File, Value: what is this.html
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: what is this.html
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+html,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\html,1,1,0,This PC\Desktop\what is this.html,2017-02-02 22:52:25.4197440,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Desktop
+
+
+Short name: what is this.html
+
+Type: File, Value: what is this.html
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: what is this.html
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+jpg,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\jpg,2,2,0,F:\\My New Pet.jpg,2017-02-02 21:53:32.2091877,"Type: Users property view?: Drive letter, Value: F:\
+
+
+Short name: MYNEWP~1.JPG
+
+File size: 58,248
+Modified On: 02/02/2017 21:37:30.000  +00:00
+
+Type: File, Value: My New Pet.jpg
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: My New Pet.jpg
+Created: 02/02/2017 21:37:42 +00:00
+Last access: 02/02/2017 05:00:00 +00:00
+MFT entry/sequence #: 3768800/ (0x3981E0/0x)
+File system hint: FAT
+
+--------------------------------------------------
+
+"
+pdf,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\pdf,2,2,0,This PC\Desktop\Snowy_Owl.pdf,2017-01-31 19:12:19.8531412,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Desktop
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0026)----------------------
+Signature: 0xbeef0026
+Size: 38
+Version: 1
+Version Offset: 0x00
+
+
+Created: 2017-01-27 00:34:48.5139381
+Last modified: 2017-01-27 17:35:43.3846215
+Last accessed: 2017-01-27 17:35:43.3846215
+
+
+--------------------------------------------------
+
+Short name: Snowy_Owl.pdf
+
+Type: File, Value: Snowy_Owl.pdf
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Snowy_Owl.pdf
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+*,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,7,7,1,This PC\Desktop\WOLf Awsome.html,,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Desktop
+
+
+Short name: WOLf Awsome.html
+
+Type: File, Value: WOLf Awsome.html
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: WOLf Awsome.html
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+html,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\html,0,0,1,This PC\Desktop\WOLf Awsome.html,,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Desktop
+
+
+Short name: WOLf Awsome.html
+
+Type: File, Value: WOLf Awsome.html
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: WOLf Awsome.html
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+jpg,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\jpg,1,1,1,This PC\Downloads\Background.jpg,,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Downloads
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0026)----------------------
+Signature: 0xbeef0026
+Size: 38
+Version: 1
+Version Offset: 0x00
+
+
+Created: 2017-01-27 00:34:48.5139381
+Last modified: 2017-01-28 22:34:20.2004517
+Last accessed: 2017-01-28 22:34:20.2004517
+
+
+--------------------------------------------------
+
+Short name: Background.jpg
+
+Type: File, Value: Background.jpg
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Background.jpg
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+pdf,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\pdf,1,1,1,This PC\Downloads\Owl_Keeping.pdf,,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Downloads
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0026)----------------------
+Signature: 0xbeef0026
+Size: 38
+Version: 1
+Version Offset: 0x00
+
+
+Created: 2017-01-27 00:34:48.5139381
+Last modified: 2017-01-31 19:08:56.1425020
+Last accessed: 2017-01-31 19:08:56.1425020
+
+
+--------------------------------------------------
+
+Short name: Owl_Keeping.pdf
+
+Type: File, Value: Owl_Keeping.pdf
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Owl_Keeping.pdf
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+*,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,6,6,2,F:\\My New Pet.jpg,,"Type: Users property view?: Drive letter, Value: F:\
+
+
+Short name: MYNEWP~1.JPG
+
+File size: 58,248
+Modified On: 02/02/2017 21:37:30.000  +00:00
+
+Type: File, Value: My New Pet.jpg
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: My New Pet.jpg
+Created: 02/02/2017 21:37:42 +00:00
+Last access: 02/02/2017 05:00:00 +00:00
+MFT entry/sequence #: 3768800/ (0x3981E0/0x)
+File system hint: FAT
+
+--------------------------------------------------
+
+"
+jpg,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\jpg,0,0,2,This PC\Downloads\Cool picture of a tiger maybe wallhanging.jpg,,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Downloads
+
+
+Short name: Cool picture of a tiger maybe wallhanging.jpg
+
+Type: File, Value: Cool picture of a tiger maybe wallhanging.jpg
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Cool picture of a tiger maybe wallhanging.jpg
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+pdf,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\pdf,0,0,2,This PC\Downloads\Owl_Emergency_Care.pdf,,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Downloads
+
+
+Short name: Owl_Emergency_Care.pdf
+
+Type: File, Value: Owl_Emergency_Care.pdf
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Owl_Emergency_Care.pdf
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+*,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,5,5,3,This PC\Desktop\Next pet,,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Desktop
+
+
+Short name: Next pet
+
+Type: File, Value: Next pet
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Next pet
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+*,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,4,4,4,This PC\Desktop\Snowy_Owl.pdf,,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Desktop
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0026)----------------------
+Signature: 0xbeef0026
+Size: 38
+Version: 1
+Version Offset: 0x00
+
+
+Created: 2017-01-27 00:34:48.5139381
+Last modified: 2017-01-27 17:35:43.3846215
+Last accessed: 2017-01-27 17:35:43.3846215
+
+
+--------------------------------------------------
+
+Short name: Snowy_Owl.pdf
+
+Type: File, Value: Snowy_Owl.pdf
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Snowy_Owl.pdf
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+*,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,3,3,5,This PC\Downloads\Owl_Keeping.pdf,,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Downloads
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0026)----------------------
+Signature: 0xbeef0026
+Size: 38
+Version: 1
+Version Offset: 0x00
+
+
+Created: 2017-01-27 00:34:48.5139381
+Last modified: 2017-01-31 19:08:56.1425020
+Last accessed: 2017-01-31 19:08:56.1425020
+
+
+--------------------------------------------------
+
+Short name: Owl_Keeping.pdf
+
+Type: File, Value: Owl_Keeping.pdf
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Owl_Keeping.pdf
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+*,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,2,2,6,This PC\Downloads\Owl_Emergency_Care.pdf,,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Downloads
+
+
+Short name: Owl_Emergency_Care.pdf
+
+Type: File, Value: Owl_Emergency_Care.pdf
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Owl_Emergency_Care.pdf
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+*,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,1,1,7,This PC\Downloads\Background.jpg,,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Downloads
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0026)----------------------
+Signature: 0xbeef0026
+Size: 38
+Version: 1
+Version Offset: 0x00
+
+
+Created: 2017-01-27 00:34:48.5139381
+Last modified: 2017-01-28 22:34:20.2004517
+Last accessed: 2017-01-28 22:34:20.2004517
+
+
+--------------------------------------------------
+
+Short name: Background.jpg
+
+Type: File, Value: Background.jpg
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Background.jpg
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+*,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,0,0,8,This PC\Downloads\Cool picture of a tiger maybe wallhanging.jpg,,"Type: Root folder: GUID, Value: This PC
+
+
+Type: Root folder: GUID, Value: Downloads
+
+
+Short name: Cool picture of a tiger maybe wallhanging.jpg
+
+Type: File, Value: Cool picture of a tiger maybe wallhanging.jpg
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Cool picture of a tiger maybe wallhanging.jpg
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"

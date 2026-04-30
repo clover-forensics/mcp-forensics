@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<statuses version='1.0'>
+	<status name='Auto-Cached' transient='true' created='1485978041' lastused='1485978041' usage_count='1'>
+		<state>away</state>
+		<substatus>
+			<account protocol='prpl-msn'>mcavoys87@gmail.com</account>
+			<state>lunch</state>
+		</substatus>
+	</status>
+	<status name='Auto-Cached' transient='true' created='1485978010' lastused='1485978010' usage_count='1'>
+		<state>available</state>
+		<substatus>
+			<account protocol='prpl-msn'>mcavoys87@gmail.com</account>
+			<state>available</state>
+		</substatus>
+	</status>
+	<status name='Auto-Cached' transient='true' created='1485976588' lastused='0' usage_count='0'>
+		<state>away</state>
+	</status>
+	<status name='Auto-Cached' transient='true' created='1485968475' lastused='0' usage_count='0'>
+		<state>available</state>
+	</status>
+	<status name='Auto-Cached' transient='true' created='1485968698' lastused='0' usage_count='0'>
+		<state>away</state>
+	</status>
+	<status name='Auto-Cached' transient='true' created='1485970311' lastused='0' usage_count='0'>
+		<state>away</state>
+		<message>I&apos;m not here right now</message>
+	</status>
+</statuses>

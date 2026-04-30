@@ -1,0 +1,69 @@
+============================================================
+    EMAIL HARASSMENT CASE - EVIDENCE SUMMARY
+============================================================
+
+SUSPECT IDENTIFICATION:
+=======================
+AOL/AIM Username: m57jean
+Internal IP: 192.168.1.64
+External IP (NAT): 70.134.91.12
+MAC Addresses: 00:1d:6b:99:98:68, 00:1d:d9:2e:4f:61
+Operating System: Windows XP SP2 (Windows NT 5.1.0.2600)
+Browser: Internet Explorer 6.0
+
+VICTIM:
+=======
+Email: lilytuckrige@yahoo.com
+Role: Teacher/Instructor at Nitroba University
+
+
+THREATENING EMAILS SENT:
+========================
+
+EMAIL #1 (via sendanonymousemail.net):
+--------------------------------------
+Fake Sender: the_whole_world_is_watching@nitroba.org
+Subject: Your class stinks
+Message:
+  "Why do you persist in teaching a boring class?
+   We don't like it.
+   We don't like you."
+
+EMAIL #2 (via willselfdestruct.com):
+-------------------------------------
+Subject: you can't find us
+Message:
+  "and you can't hide from us.
+   Stop teaching.
+   Start running."
+
+
+INCRIMINATING SEARCH QUERIES:
+=============================
+1. "i want to harass my teacher" - Google search
+2. "can I go to jail for harassing my teacher?" - Yahoo Answers search
+3. "send anonymous mail" - Google search
+4. "sending anonymous mail" - Google search
+5. "how to annoy people" - Google search
+
+
+TIMELINE (July 22, 2008 UTC):
+=============================
+01:51 - Network capture begins
+~06:01 - Searches Google for "send anonymous mail"
+~06:01:50 - Clicks through to sendanonymousemail.net
+~07:21 - Accesses sendanonymousemail.net
+~07:23 - SENDS EMAIL #1
+Shortly after - Searches for "can I go to jail for harassing my teacher?"
+Shortly after - Accesses willselfdestruct.com
+Shortly after - SENDS EMAIL #2
+
+
+ADDITIONAL EVIDENCE:
+====================
+- VoIP Phone: 617-876-6111 (Vonage service)
+- PHP Session: 762adba03236142ccec305f6a20aaffa (sendanonymousemail.net)
+- Device ID: AFE626E1-58E0-465A-83E4-28D58FE33959
+- Active AOL/AIM account synchronizing contacts
+
+============================================================

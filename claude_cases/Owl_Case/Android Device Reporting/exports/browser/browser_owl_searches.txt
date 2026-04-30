@@ -1,0 +1,48 @@
+2017-01-25 07:10:46|http://internationalowlcenter.org/owls-humans/owlsaspets|Owls as Pets|1
+2017-01-25 07:10:56|https://www.reference.com/pets-animals/can-buy-owl-570e816192eb539b|Where can I buy an owl? | Reference.com|1
+2017-01-25 07:10:59|https://www.reference.com/pets-animals/can-buy-owl-570e816192eb539b#||1
+2017-01-25 07:11:47|https://answers.yahoo.com/question/index?qid=20110119184415AAFEx2R|Where can I buy an owl? | Yahoo Answers|1
+2017-01-25 07:20:22|https://www.quora.com/Where-can-you-find-baby-owls-for-sale-Are-owls-legal-to-keep-as-pets|Where can you find baby owls for sale? Are owls legal to keep as pets? - Quora|2
+2017-01-25 07:22:44|http://m.birdtrader.co.uk/owls/tawny-owls-for-sale/557493|tawny owls for sale for sale in Londonderry, Northern Ireland | Birdtrader|1
+2017-01-25 07:22:57|http://m.birdtrader.co.uk/owls/bonding-pair-asian-wood-owls/558006|BONDING PAIR ASIAN WOOD OWLS for sale in Northamptonshire, East Midlands | Birdtrader|1
+2017-01-25 07:23:10|http://m.birdtrader.co.uk/birds-of-prey-for-sale?sstr=Baby+owl&type_id=5&ads_cid=43&ads_place_name=&ads_place_lat=0&ads_place_long=0&ads_dist=5|Owls for Sale | Birdtrader | Birdtrader|1
+2017-01-25 07:23:27|http://m.birdtrader.co.uk/owls/barn-owls-for-sale/557933|Barn Owls for sale for sale in Lincolnshire, East Midlands | Birdtrader|1
+2017-01-25 07:25:20|http://m.birdtrader.co.uk/birds-of-prey-for-sale/owls?sstr=Baby%20owl&ads_dist=5|Owls for Sale | Birdtrader | Birdtrader|2
+2017-01-25 07:25:22|http://m.birdtrader.co.uk/birds-of-prey-for-sale/owls|Owls for Sale | Birdtrader | Birdtrader|5
+2017-01-25 07:26:34|http://exoticanimalsforsale.net/search.asp?q=Owl|Search Exotic Animals|1
+2017-01-25 07:27:15|http://exoticanimalsforsale.net/search.asp?q=Owl&page=2|Search Exotic Animals|1
+2017-01-25 07:27:33|http://exoticanimalsforsale.net/search.asp?q=Owl&page=3|Search Exotic Animals|1
+2017-01-31 03:06:18|https://www.amazon.com/gp/aw/s/ref=is_s_ss_i_0_5/166-5905978-4816857?k=bird+feeder&sprefix=bird+|Amazon.com: bird feeder|3
+2017-01-31 03:06:37|https://www.amazon.com/gp/aw/d/B0002AQMDM/ref=mp_s_a_1_2?ie=UTF8&qid=1485813990&sr=8-2&keywords=bird+bedding|Kaytee Kay Kob Bedding for Birds, 8-Pound|1
+2017-01-31 03:06:43|https://www.amazon.com/gp/aw/d/B00BUFRZU2/ref=mp_s_a_1_3?ie=UTF8&qid=1485813990&sr=8-3&keywords=bird+bedding|Kaytee Walnut Bedding and Litter Pad for Pets, 7-Pound|1
+2017-01-31 03:06:46|https://www.amazon.com/gp/aw/s/ref=is_s_ss_i_0_9/166-5905978-4816857?k=bird+bedding&sprefix=bird+bedd|Amazon.com: bird bedding|9
+2017-01-31 03:09:47|https://www.bing.com/search?q=owls&qs=n&form=QBLH&sp=-1&pq=owls&sc=5-4&sk=&cvid=F14073B9B9294663B896190406EEE47D|owls - Bing|1
+2017-01-31 03:10:08|https://www.bing.com/fd/auth/signin?action=interactive&provider=windows_live_id&device=mobile&return_url=https%3A%2F%2Fwww.bing.com%2Fimages%2Fsearch%3Fview%3DdetailV2%26ccid%3DyoOz5UKF%26id%3D4DBC71FD549575A81F1803186BC4F6FEF10B6040%26q%3Dowls%26simid%3D608052480077269844%26selectedIndex%3D2%26ajaxhist%3D0|Sign in to your Microsoft account|1
+2017-01-31 03:10:09|https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1485814208&rver=6.7.6631.0&wp=MBI&wreply=https%3a%2f%2fwww.bing.com%2fsecure%2fPassport.aspx%3frequrl%3dhttps%253a%252f%252fwww.bing.com%252fimages%252fsearch%253fview%253ddetailV2%2526ccid%253dyoOz5UKF%2526id%253d4DBC71FD549575A81F1803186BC4F6FEF10B6040%2526q%253dowls%2526simid%253d608052480077269844%2526selectedIndex%253d2%2526ajaxhist%253d0&lc=1033&id=264960&pcexp=false|Sign in to your Microsoft account|2
+2017-01-31 03:10:25|http://images5.fanpop.com/image/photos/31400000/Owl-owls-31450189-1600-1200.jpg|Owl-owls-31450189-1600-1200.jpg (1600×1200)|1
+2017-01-31 03:10:27|https://www.bing.com/images/search?view=detailV2&ccid=yoOz5UKF&id=4DBC71FD549575A81F1803186BC4F6FEF10B6040&q=owls&simid=608052480077269844&selectedIndex=2&mode=overlay#|Images|2
+2017-01-31 03:10:31|https://www.bing.com/images/search?view=detailV2&ccid=yoOz5UKF&id=4DBC71FD549575A81F1803186BC4F6FEF10B6040&q=owls&simid=608052480077269844&selectedIndex=2&ajaxhist=0||3
+2017-01-31 03:10:45|https://www.bing.com/images/search?view=detailV2&ccid=qMCnxjzw&id=0C1E6640F26A07F5E60D8298C706F240F615976C&q=owls&simid=608054086392350127&selectedIndex=9&mode=overlay#|Images|1
+2017-01-31 03:10:56|https://www.bing.com/images/search?view=detailV2&ccid=qMCnxjzw&id=0C1E6640F26A07F5E60D8298C706F240F615976C&q=owls&simid=608054086392350127&selectedIndex=9&ajaxhist=0||2
+2017-01-31 03:11:01|https://www.bing.com/images/search?q=owls&FORM=HDRSC2|Images|6
+2017-01-31 03:11:11|https://www.bing.com/images/search?view=detailV2&ccid=PNhNMyYT&id=9A6FCCE4030622378A90B3932D314EA119F67B89&q=owls+Tattoos&simid=608025576397276750&selectedIndex=15&ajaxhist=0||1
+2017-01-31 03:11:24|https://www.bing.com/images/search?q=owls+Tattoos&tq=%7b%22pq%22%3a%22owls%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22owls%22%2c%22pv%22%3a%22owls%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Tattoos%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC|Images|2
+2017-01-31 03:11:27|https://www.bing.com/images/search?q=owls&tq=%7b%22pq%22%3a%22owls+Tattoos%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22owls%22%2c%22pv%22%3a%22owls%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22Tattoos%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%5d%7d&FORM=IRQBPD|Images|1
+2017-01-31 03:11:29|https://www.bing.com/images/search?q=owls+Snowy&tq=%7b%22pq%22%3a%22owls%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22owls%22%2c%22pv%22%3a%22owls%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Snowy%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC|Images|1
+2017-01-31 03:11:33|https://www.bing.com/images/search?view=detailV2&ccid=XXEG0dWx&id=BFD94D2D65599AC27C324B946258D71D114DE19E&q=owls+Snowy&simid=607997676287492754&selectedIndex=4&ajaxhist=0||1
+2017-01-31 03:11:41|https://www.bing.com/images/search?view=detailV2&ccid=XXEG0dWx&id=BFD94D2D65599AC27C324B946258D71D114DE19E&q=owls+Snowy&simid=607997676287492754&selectedIndex=4&mode=overlay#|Images|2
+2017-01-31 03:44:19|http://www.lauraerickson.com/page/owls-of-harry-potter/|The Owls of Harry Potter | Laura Erickson's For the Birds|4
+2017-02-03 22:18:01|https://www.google.com/search?q=birds&oq=birds&aqs=chrome..69i57j69i60j0j69i46l2.1378j0j4&client=ms-android-google&sourceid=chrome-mobile&espv=1&ie=UTF-8|birds - Google Search|1
+2017-02-03 22:18:54|https://www.google.com/search?q=birds&client=ms-android-google&espv=1&prmd=ivn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiU3_W2t_TRAhWE24MKHV8lBXIQ_AUIBygB&biw=360&bih=512#imgrc=Jf2z_IEOqSa_KM:||2
+2017-02-03 22:19:00|https://www.google.com/search?q=birds&client=ms-android-google&espv=1&prmd=ivn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiU3_W2t_TRAhWE24MKHV8lBXIQ_AUIBygB&biw=360&bih=512|birds - Google Search|2
+2017-02-03 22:19:00|https://www.google.com/search?q=birds&client=ms-android-google&espv=1&prmd=ivn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiU3_W2t_TRAhWE24MKHV8lBXIQ_AUIBygB&biw=360&bih=512#imgrc=_||1
+2017-02-03 22:19:05|https://www.google.com/search?q=birds&client=ms-android-google&espv=1&prmd=ivn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiU3_W2t_TRAhWE24MKHV8lBXIQ_AUIBygB&biw=360&bih=512#tbm=isch&q=owls|owls - Google Search|1
+2017-02-03 22:19:09|https://www.google.com/search?q=birds&client=ms-android-google&espv=1&prmd=ivn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiU3_W2t_TRAhWE24MKHV8lBXIQ_AUIBygB&biw=360&bih=512#tbm=isch&q=owls&imgrc=z9QV_01tY_n1vM:||1
+2017-02-03 22:20:04|https://www.google.com/search?q=birds&client=ms-android-google&espv=1&prmd=ivn&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiU3_W2t_TRAhWE24MKHV8lBXIQ_AUIBygB&biw=360&bih=512#tbm=isch&q=owls&imgrc=YjMB6jkxGcFCKM:||1
+2017-02-03 22:20:17|https://www.google.com/search?q=snowy+owl&oq=snowy&aqs=chrome.1.69i57j0l2j5.5212j0j4&client=ms-android-google&sourceid=chrome-mobile&espv=1&ie=UTF-8#imgrc=GbfaKA3R7MQjiM:||1
+2017-02-03 22:20:32|https://www.google.com/search?q=snowy+owl&oq=snowy&aqs=chrome.1.69i57j0l2j5.5212j0j4&client=ms-android-google&sourceid=chrome-mobile&espv=1&ie=UTF-8#imgrc=973zsz59Q3Z4BM:||1
+2017-02-03 22:20:37|https://www.google.com/search?q=snowy+owl&oq=snowy&aqs=chrome.1.69i57j0l2j5.5212j0j4&client=ms-android-google&sourceid=chrome-mobile&espv=1&ie=UTF-8#imgrc=LPcErQTAfspTUM:||1
+2017-02-03 22:20:49|https://www.google.com/search?q=snowy+owl&oq=snowy&aqs=chrome.1.69i57j0l2j5.5212j0j4&client=ms-android-google&sourceid=chrome-mobile&espv=1&ie=UTF-8#imgrc=mcGv81ergiDiuM:||1
+2017-02-03 22:20:49|https://www.google.com/search?q=snowy+owl&oq=snowy&aqs=chrome.1.69i57j0l2j5.5212j0j4&client=ms-android-google&sourceid=chrome-mobile&espv=1&ie=UTF-8#imgrc=i0LJypUx0n4ExM:||1
+2017-02-03 22:20:50|https://www.google.com/search?q=snowy+owl&oq=snowy&aqs=chrome.1.69i57j0l2j5.5212j0j4&client=ms-android-google&sourceid=chrome-mobile&espv=1&ie=UTF-8#imgrc=UhylbE6cCSyxwM:||1
+2017-02-03 22:20:53|https://www.google.com/search?q=snowy+owl&oq=snowy&aqs=chrome.1.69i57j0l2j5.5212j0j4&client=ms-android-google&sourceid=chrome-mobile&espv=1&ie=UTF-8|snowy owl - Google Search|2

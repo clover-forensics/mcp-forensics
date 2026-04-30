@@ -1,0 +1,21 @@
+timestamp_utc|author|display_name|message
+2017-01-30 23:52:46|live:mcavoys87|Sarah McAvoy|
+2017-01-30 23:52:46|live:mcavoys87|Sarah McAvoy|
+2017-01-31 00:15:25|live:mcavoys87|Sarah McAvoy|Hey Matt thanks for the hook up
+2017-01-31 00:16:07|live:generalhaze28|Matt Haze28|No prob have you seen the new Rings movie
+2017-01-31 00:16:28|live:mcavoys87|Sarah McAvoy|Uh no its not out yet
+2017-01-31 00:16:47|live:generalhaze28|Matt Haze28|I mean are you planning to see it
+2017-01-31 00:17:14|live:mcavoys87|Sarah McAvoy|I don&apos;t know Ring 2 was really dissappointing
+2017-01-31 00:17:49|live:generalhaze28|Matt Haze28|Yeah but the first one was awesome you want to go?
+2017-01-31 00:19:02|live:mcavoys87|Sarah McAvoy|Sorry my friends are going to go out later for Resident Evil maybe some other time
+2017-01-31 00:19:42|live:generalhaze28|Matt Haze28|Cool cool well I got to get going homework and all
+2017-01-31 00:20:18|live:mcavoys87|Sarah McAvoy|All right talk at you later
+2017-02-01 00:01:34|live:mcavoys87|Sarah McAvoy|Hey did you want to get in on the Resident Evil Movie
+2017-02-01 00:16:11|live:generalhaze28|Matt Haze28|Totally who&apos;s going
+2017-02-01 00:17:30|live:mcavoys87|Sarah McAvoy|Me monica, Isaiah and terry
+2017-02-01 00:23:01|live:mcavoys87|Sarah McAvoy|We&apos;re going out like Friday at the 7 show does that sound good
+2017-02-01 00:24:23|live:generalhaze28|Matt Haze28|Totally, I&apos;ll be there
+2017-02-01 00:24:35|live:generalhaze28|Matt Haze28|Got to go for now see you friday
+2017-02-01 00:26:37|live:mcavoys87|Sarah McAvoy|k bye
+2017-02-05 21:55:59|28:concierge|28:concierge|Did you know you can <a href="https://go.skype.com/howto.groupvideocall">call groups of friends</a> and IM them for free? And group video calling works on all your devices - mobile, tablet and desktop. Catching up is now easier than ever.
+2017-02-06 21:55:58|28:concierge|28:concierge|Today&apos;s top tip - <a href="https://go.skype.com/howto.invite">invite your friends and family</a> to join you on Skype so you can do more together every day. The more people you know, the easier it is to stay connected.
